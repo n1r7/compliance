@@ -20,8 +20,8 @@ Company-initiated:
    ---------SARs require teams of educated humans to do things – they can never be eliminated  
    ------Incentivizing customers to reduce their risk to the bank, the bank can reduce its cost per SAR, thereby freeing up resources once allocated to the AML compliance function  
 
-   ---Feature limits
-   ------For each risky feature the customer does not opt-in to, the bank provides the customer the equivalent in points of the average cost per SAR involving a product with that feature  
+   ---Feature limits  
+   ------For each risky feature the customer does not opt-in to, provide customer the equivalent in points of the average cost per SAR involving a product with that feature  
    ------Products have tiered features customers opt-into  
    ---------Riskier product features require additional information from the customer    
  
@@ -29,7 +29,7 @@ Company-initiated:
    ------Identification of the source of funds reduces the largest risk of payments  
    ------White list payments from confirmed sources utilizing the 314(b) process, requiring regular checks to confirm the connection  
 
-   ---Social network connectivity
-   ------Improve watch list and sanctions screening effectiveness through social network confirmation using available APIs (e.g., Facebook)  
+   ---Social network connectivity  
+   ------Improve watch list and sanctions screening effectiveness through social network confirmation using available APIs  
    ------Customers are incentivized to do so through assurances of frictionless transactions
    ------Provide customers with terms and conditions that guarantee their privacy
