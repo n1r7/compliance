@@ -9,35 +9,3 @@ The program is clear communication of:
 2. How do I know I can trust this user?
 3. How often have I assisted with a law enforcement initiative?
 4. How many former users have been convicted?
-
-
-Legal compliance:
-1. Parse ECFR to docs
-2. Split docs to sentences
-3. Train byte-level tokenizer
-4. Train BERT model
-5. Fine tune BERT model with ECFR sentences
-
-Classification:
-Text -> BERT -> Dropout -> FC -> Softmax -> Class
-
-
-1. Can the model identify requirements? Use deontic logic expressions.
-2. Who reviews the re
-
-
-
-
-
-
-  
-  
- 
- 
- 
- 
-
- 
- 
- 
-
