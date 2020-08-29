@@ -18,7 +18,7 @@ Company-initiated:
    ---Customers that do not have or use certain risky features do not require monitoring for typologies that involve that feature  
    ------The fewer the number of customers that require monitoring, the more efficient the AML program can be, reducing costs  
    ---------SARs require teams of educated humans to do things – they can never be eliminated  
-   ------Incentivizing customers to reduce their risk to the bank, the bank can reduce its cost per SAR, thereby freeing up resources once allocated to the AML compliance function  
+   ------Incentivizing users to reduce their threats to our system, we can reduce cost per SAR, thereby freeing up resources once allocated to the AML compliance function  
 
    ---Feature limits  
    ------For each risky feature the customer does not opt-in to, provide customer the equivalent in points of the average cost per SAR involving a product with that feature  
@@ -31,5 +31,5 @@ Company-initiated:
 
    ---Social network connectivity  
    ------Improve watch list and sanctions screening effectiveness through social network confirmation using available APIs  
-   ------Customers are incentivized to do so through assurances of frictionless transactions
+   ------Customers are incentivized to do so through assurances of frictionless transactions  
    ------Provide customers with terms and conditions that guarantee their privacy
