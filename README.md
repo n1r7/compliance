@@ -28,36 +28,7 @@ Text -> BERT -> Dropout -> FC -> Softmax -> Class
 
 
 
-# Monitoring
-Identify systems.
-Identify connections between systems.
-Define system participant roles.
-Define normal behavior for each role.
-What are the features of that behavior?
 
-Observe user behavior on system.
-Measure distance between role behavior and user behavior.
-Cluster measurements.
-
-Create graph = V(user)-send money->V(user)
-Properties of users = 
-{
-  "unique_id": string
-  "Roles": tuple(string),
-  "Feature_scores": tuple(float),
-  "money_sent": float,
-  "money_received": float,
-  "transaction_count": int
-}
-Properties of money_send = 
-{
-  "originator_id": string,
-  "beneficiary_id": string,
-  "transaction_time": timedate,
-  "transaction_amt": float,
-}
-
-Cluster users by property
 
   
   
