@@ -56,7 +56,7 @@ Consider the system described in the previous section. Using this framework for 
         - If law or regulation is in effect
         - Update rule logic
 
-##### Compliance-focused system
+## Compliance-focused system
 Centralizing data has been a goal for many businesses. By centralizing data, businesses believe they can enhance enterprise systems and more effectively identify trends and opportunities. This has largely proven true as companies continue to find new opportunities for automation, efficiency, and revenue growth. As data technology continues to advance, centralizing data has become less important. Instead, finding the most efficient methods to access all of a company’s data has become paramount. Further still, developing strategic hypotheses and testing those through machine learning models that rely on a company’s data has been touted as the future of all business.
 While identifying new ways to use data may lead to future success for businesses, doing so is not without risks. Data security, privacy, and integrity are of principal importance to stakeholders – customers, companies, and governments. Compliance-focused systems must then keep these principles in mind.
 Encryption improves security and privacy. Distributed ledgers improve integrity. Proper controls and audit logs improve security, privacy, and integrity. Successful compliance-focused systems will have all of these features.
