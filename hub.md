@@ -1,17 +1,22 @@
-COMPLIANCE AS AN INFORMATION HUB
+# COMPLIANCE AS AN INFORMATION HUB
 
-Compliance is binary – an institution is either compliant or it is not. The effectiveness of all compliance systems is dependent on having access to all pertinent information. Thus, compliance is a solvable information problem.
+Compliance is binary – an institution is either compliant or it is not. 
+The effectiveness of all compliance systems is dependent on having access to all pertinent information. 
+Thus, compliance is a solvable information problem.
 
-Centralized data makes compliance surveillance more effective. Anti-money laundering compliance boils down to three concepts:
+Centralized data makes compliance surveillance more effective. 
+Anti-money laundering compliance comprises three concepts:
 1.	Who do I do business with?
 2.	What are they doing?
 3.	Does this warrant informing the government?
 
-Anti-money laundering compliance systems must be able to connect these three concepts, and do so in a way that allows businesses to not only measure the effectiveness of their anti-money laundering compliance programs, but also use the system as a tool to test business strategies.
+AML compliance systems must be able to connect these three concepts, and do so in a way that allows businesses to not only measure the effectiveness of their anti-money laundering compliance programs, but also use the system as a tool to test business strategies.
 An effective anti-money laundering compliance system must create connections between data from different sources and continuously monitor its health and effectiveness:
-•	Internal
-o	Customers
-	Does this customer exist?
+
+
+- Internal
+  - Customers
+Does this customer exist?
 	Is this customer sanctioned?
 	Enhance customer profile with external data
 o	Transactions
@@ -25,10 +30,12 @@ o	Records
 o	Web
 	Is the network behaving as expected?
 	Has any area of the network been breached?
-•	External
+- External
 o	Transform laws and regulations into rule logic
 o	Create news hub to screen customers and update rule logic
-Compliance-focused systems can improve all areas of business
+
+
+###### Compliance-focused systems can improve all areas of business
 Consider the system described in the previous section. Using this framework for enterprise systems development, businesses can more effectively manage compliance risk and free capital for strategy and investment.
 •	Business
 o	Trends in customer behavior can identify new sources of revenue
