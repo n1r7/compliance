@@ -1,3 +1,5 @@
+https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources/2020-05-26.pdf
+
 //   Move has:
 //   1) Transaction scripts: included in each user-submitted transaction and invoke procedures of a module to update the global state
 //   2) Modules
