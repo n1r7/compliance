@@ -45,9 +45,9 @@
     2. Government ID
     3.	Passport number
     4.	Government identification number
-    5.	Primary address (number, street, city, state, zip code, country)
-    6.	Mailing address (number, street, city, state, zip code, country)
-    7.	Other address (number, street, city, state, zip code, country)
+    5.	Primary address
+    6.	Mailing address
+    7.	Other address
     8.	Phone numbers
     9.	Email address
     10.	Alert history (alerts raised, frequency, disposition)
