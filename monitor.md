@@ -53,10 +53,16 @@
     10.	Alert history (alerts raised, frequency, disposition)
     11.	Politically exposed person status
     12.	Birth date
-    13.	IP address
+    13.	Access
+        1. IP address
+        2. Device ID
+        3. Location
     14.	Beneficial owner
 2.	Accounts
-    1.	Tenure
+    1.	Age
+        1. Since establishment
+        2. Since last transaction
+        3. Since last login
     2.	Types
         1.	Features
         2.	Business rules
@@ -79,3 +85,11 @@
     5.	Associated accounts and customers
     6.	Alert history (alerts raised, frequency, disposition)
 
+
+### Transactions have shape
+
+Transactions features:
+1. Shape (inputs, outputs)
+2. Value distribution
+3. Input type
+4. Input age
