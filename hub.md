@@ -1,18 +1,14 @@
 # COMPLIANCE AS AN INFORMATION HUB
 
-Compliance is binary – an institution is either compliant or it is not. 
-The effectiveness of all compliance systems is dependent on having access to all pertinent information. 
-Thus, compliance is a solvable information problem.
+Compliance is binary – an institution is either compliant or it is not. The effectiveness of all compliance systems is dependent on having access to all pertinent information. Thus, compliance is a solvable information problem.
 
-Centralized data makes compliance surveillance more effective. 
-Anti-money laundering compliance comprises three concepts:
+Centralized data makes compliance surveillance more effective. Anti-money laundering compliance comprises three concepts:
 1.	Who do I do business with?
 2.	What are they doing?
 3.	Does this warrant informing the government?
 
 AML compliance systems must be able to connect these three concepts, and do so in a way that allows businesses to not only measure the effectiveness of their anti-money laundering compliance programs, but also use the system as a tool to test business strategies.
 An effective anti-money laundering compliance system must create connections between data from different sources and continuously monitor its health and effectiveness:
-
 
 - Internal
   - Customers
@@ -81,24 +77,24 @@ Implementation occurs in phases:
 ### Redefine anti-money laundering compliance programs
 Adhere to the existing tenets of anti-money laundering compliance, but connect the concepts in such a way that allows for greater program efficiency.
 1.	Risk assessment
-a.	Business landscape – what do companies do?
-i.	Products and their functionality (features, limits, controls)
-ii.	Services
-iii.	Customer types
-iv.	Geographies
-v.	Partners and vendors
-b.	Legal landscape – what do companies have to comply with?
-c.	Policy landscape – what are companies saying they do?
-i.	Can companies answer “yes” to everything required under FFIEC exam manual?
-d.	Business rules, processes, and procedures – how are companies doing what they say they do?
+  1.	Business landscape – what do companies do?
+    1.	Products and their functionality (features, limits, controls)
+    2.	Services
+    3.	Customer types
+    4.	Geographies
+    5.	Partners and vendors
+  2.	Legal landscape – what do companies have to comply with?
+  3.	Policy landscape – what are companies saying they do?
+    1.	Can companies answer “yes” to everything required under FFIEC exam manual?
+  4.	Business rules, processes, and procedures – how are companies doing what they say they do?
 2.	AML Compliance Program
-a.	KYC
-b.	Transaction monitoring
-i.	Rules and reputation lists: what do companies care about now?
-ii.	Supervised machine learning: what should companies care about?
-iii.	Unsupervised machine learning: what do companies need to be aware of?
-c.	Investigations
-d.	Reporting
+    1.	KYC
+    2.	Transaction monitoring
+      1.	Rules and reputation lists: what do companies care about now?
+      2.	Supervised machine learning: what should companies care about?
+      3.	Unsupervised machine learning: what do companies need to be aware of?
+    3.	Investigations
+    4.	Reporting
 
 ### Design to recursively learn
 1.	Perception – what is happening now?
