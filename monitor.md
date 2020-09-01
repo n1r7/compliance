@@ -14,7 +14,7 @@ Monitor.
 
    Properties of users = 
 {
-  "unique_id": string
+  "unique_id": string,
   "Roles": tuple(string),
   "Feature_scores": tuple(float),
   "money_sent": float,
@@ -27,7 +27,7 @@ Monitor.
   "originator_id": string,
   "beneficiary_id": string,
   "transaction_time": timedate,
-  "transaction_amt": float,
+  "transaction_amt": float
 }
 
 10. Cluster users by property
