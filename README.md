@@ -4,7 +4,7 @@ Compliance comes down to:
 
 Effectiveness is the culture.  
 1. We know with certainty we fulfil our requirements. 
-2. help law enforcement fight crime that harms our users.
+2. Help law enforcement fight crime that harms our users.
 
 The program is clear communication of:
 1. How do I know I can trust this transaction?
