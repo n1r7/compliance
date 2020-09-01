@@ -35,7 +35,7 @@ An effective anti-money laundering compliance system must create connections bet
   - Create news hub to screen customers and update rule logic
 
 
-##### Compliance-focused systems can improve all areas of business
+### Compliance-focused systems can improve all areas of business
 Consider the system described in the previous section. Using this framework for enterprise systems development, businesses can more effectively manage compliance risk and free capital for strategy and investment.
 - Business
   - Trends in customer behavior can identify new sources of revenue
@@ -56,28 +56,29 @@ Consider the system described in the previous section. Using this framework for 
         - If law or regulation is in effect
         - Update rule logic
 
-## Compliance-focused system
+### Compliance-focused system
 Centralizing data has been a goal for many businesses. By centralizing data, businesses believe they can enhance enterprise systems and more effectively identify trends and opportunities. This has largely proven true as companies continue to find new opportunities for automation, efficiency, and revenue growth. As data technology continues to advance, centralizing data has become less important. Instead, finding the most efficient methods to access all of a company’s data has become paramount. Further still, developing strategic hypotheses and testing those through machine learning models that rely on a company’s data has been touted as the future of all business.
 While identifying new ways to use data may lead to future success for businesses, doing so is not without risks. Data security, privacy, and integrity are of principal importance to stakeholders – customers, companies, and governments. Compliance-focused systems must then keep these principles in mind.
 Encryption improves security and privacy. Distributed ledgers improve integrity. Proper controls and audit logs improve security, privacy, and integrity. Successful compliance-focused systems will have all of these features.
 
-##### Encrypted information exchange
-Companies rely on many different systems and changing those systems would be costly and time-consuming. Sequitur is not intended to replace those systems. Sequitur instead provides companies a compliance-focused system that establishes standards for encryption of data, sharing of data for compliance use, and decryption of member data by appropriate parties and auditable results, while addressing the three key anti-money laundering concepts by building a neural network within a company’s systems.
-Implementation occurs in phases:
-1.	Optimization of anti-money laundering transaction monitoring alerts to reduce useless (i.e., false positive) alert volume. Doing so will improve the effectiveness of the transaction monitoring system, reducing the burden on investigative and other anti-money laundering compliance staff.
-a.	Inputs = alert details, including typology, rule, thresholds, and disposition
-b.	What threshold does the system predict will result in an alert generating?
-c.	Adjust thresholds, reduce false positive alert volume
-d.	Rigorous quality assurance process to make corrections to all inaccurate alerts
-e.	Run model after corrections to further tune thresholds
-2.	Typology analysis through unsupervised machine learning. Unsupervised machine learning further optimizes transaction monitoring systems by identifying noteworthy connections and patterns that may warrant escalation to the government. System-identified typologies can result in new rules, which can be further optimized by the system. This further reduces the compliance program’s reliance of staff.
-a.	Inputs = customer and transaction data
-b.	Who knows whom – graph database
-c.	Who transacts similarly – cluster analysis
-d.	What can I reasonably predict – each customer is represented by an agent that builds and continuously updates a profile of expected behavior for that customer (think, a network of Nest thermostats that anticipate customer actions)
-3.	Neural network integration and query tool. The more information Sequitur is provided, the more significant the impact the system can have. By monitoring the entirety of a company’s systems, Sequitur can be used to query the system to generate strategies. Businesses can measure the impact changes to products or controls can have system-wide. Functions will transition from creators or doers to testers and generators. 
+### Encrypted information exchange
+Companies rely on many different systems and changing those systems would be costly and time-consuming. AML is not intended to replace those systems. AML instead provides companies a compliance-focused system that establishes standards for encryption of data, sharing of data for compliance use, and decryption of member data by appropriate parties and auditable results, while addressing the three key anti-money laundering concepts by building a neural network within a company’s systems.
 
-##### Redefines anti-money laundering compliance programs
+Implementation occurs in phases:
+1. Optimization of anti-money laundering transaction monitoring alerts to reduce useless (i.e., false positive) alert volume. Doing so will improve the effectiveness of the transaction monitoring system, reducing the burden on investigative and other anti-money laundering compliance staff.
+  1. Inputs = alert details, including typology, rule, thresholds, and disposition
+  2. What threshold does the system predict will result in an alert generating?
+  3. Adjust thresholds, reduce false positive alert volume
+  4.	Rigorous quality assurance process to make corrections to all inaccurate alerts
+  5.	Run model after corrections to further tune thresholds
+2.	Typology analysis through unsupervised machine learning. Unsupervised machine learning further optimizes transaction monitoring systems by identifying noteworthy connections and patterns that may warrant escalation to the government. System-identified typologies can result in new rules, which can be further optimized by the system. This further reduces the compliance program’s reliance of staff.
+  1.	Inputs = customer and transaction data
+  2.	Who knows whom – graph database
+  3.	Who transacts similarly – cluster analysis
+  4.	What can I reasonably predict – each customer is represented by an agent that builds and continuously updates a profile of expected behavior for that customer (think, a network of Nest thermostats that anticipate customer actions)
+3.	Neural network integration and query tool. The more information AML is provided, the more significant the impact the system can have. By monitoring the entirety of a company’s systems, AML can be used to query the system to generate strategies. Businesses can measure the impact changes to products or controls can have system-wide. Functions will transition from creators or doers to testers and generators. 
+
+### Redefine anti-money laundering compliance programs
 Adhere to the existing tenets of anti-money laundering compliance, but connect the concepts in such a way that allows for greater program efficiency.
 1.	Risk assessment
 a.	Business landscape – what do companies do?
@@ -99,7 +100,7 @@ iii.	Unsupervised machine learning: what do companies need to be aware of?
 c.	Investigations
 d.	Reporting
 
-##### Design to recursively learn
+### Design to recursively learn
 1.	Perception – what is happening now?
 2.	Notification – what do I need to know?
 3.	Suggestion – what do you recommend?
