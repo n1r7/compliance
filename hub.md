@@ -16,52 +16,54 @@ An effective anti-money laundering compliance system must create connections bet
 
 - Internal
   - Customers
-Does this customer exist?
-	Is this customer sanctioned?
-	Enhance customer profile with external data
-o	Transactions
-	Is this transaction fraudulent?
-	Should this transaction be denied due to sanctions or other reasons?
-	Is this transaction indicative of financial crime?
-	Is this transaction permissible?
-o	Records
-	Distributed ledger provides full audit trail of records
-	Consensus driven – is the record different than expected?
-o	Web
-	Is the network behaving as expected?
-	Has any area of the network been breached?
+    - Does this customer exist?
+    - Is this customer sanctioned?
+    - Enhance customer profile with external data
+  - Transactions
+    - Is this transaction fraudulent?
+    - Should this transaction be denied due to sanctions or other reasons?
+    - Is this transaction indicative of financial crime?
+    - Is this transaction permissible?
+  - Records
+    - Distributed ledger provides full audit trail of records
+    - Consensus driven – is the record different than expected?
+  - Web
+    - Is the network behaving as expected?
+    - Has any area of the network been breached?
 - External
-o	Transform laws and regulations into rule logic
-o	Create news hub to screen customers and update rule logic
+  - Transform laws and regulations into rule logic
+  - Create news hub to screen customers and update rule logic
 
 
-###### Compliance-focused systems can improve all areas of business
+##### Compliance-focused systems can improve all areas of business
 Consider the system described in the previous section. Using this framework for enterprise systems development, businesses can more effectively manage compliance risk and free capital for strategy and investment.
-•	Business
-o	Trends in customer behavior can identify new sources of revenue
-•	Intelligence
-o	Transparency across the business reduces regulatory risk
-o	Information can be provided to law enforcement
-o	System that searches for weaknesses in an institution’s controls
-•	Compliance
-o	Create “trap door” events that stop the transaction and/or traffic and trigger immediate investigation by a response team
-o	Reduce risk by actively monitoring the health of the company
-o	Decrease compliance costs by eliminating superfluous functions
-o	Actively updating the centralized data hub with external data
-	Proposed or final updates to laws and regulations generates and warning for compliance
-•	System predicts how change to law or regulation would impact rule logic
-	Compliance staff reviews system-generated analysis and closes warning
-	Confirm system-generated analysis and provide input back to system
-	Correct and update system-generated analysis and provide input back to system
-	If law or regulation is in effect
-	Update rule logic
-Sequitur is a compliance-focused system
+- Business
+  - Trends in customer behavior can identify new sources of revenue
+- Intelligence
+  - Transparency across the business reduces regulatory risk
+  - Information can be provided to law enforcement
+  - System that searches for weaknesses in an institution’s controls
+- Compliance
+  - Create “trap door” events that stop the transaction and/or traffic and trigger immediate investigation by a response team
+  - Reduce risk by actively monitoring the health of the company
+  - Decrease compliance costs by eliminating superfluous functions
+  - Actively updating the centralized data hub with external data
+    - Proposed or final updates to laws and regulations generates and warning for compliance
+      - System predicts how change to law or regulation would impact rule logic
+        - Compliance staff reviews system-generated analysis and closes warning
+        - Confirm system-generated analysis and provide input back to system
+        - Correct and update system-generated analysis and provide input back to system
+        - If law or regulation is in effect
+        - Update rule logic
+
+##### Compliance-focused system
 Centralizing data has been a goal for many businesses. By centralizing data, businesses believe they can enhance enterprise systems and more effectively identify trends and opportunities. This has largely proven true as companies continue to find new opportunities for automation, efficiency, and revenue growth. As data technology continues to advance, centralizing data has become less important. Instead, finding the most efficient methods to access all of a company’s data has become paramount. Further still, developing strategic hypotheses and testing those through machine learning models that rely on a company’s data has been touted as the future of all business.
 While identifying new ways to use data may lead to future success for businesses, doing so is not without risks. Data security, privacy, and integrity are of principal importance to stakeholders – customers, companies, and governments. Compliance-focused systems must then keep these principles in mind.
 Encryption improves security and privacy. Distributed ledgers improve integrity. Proper controls and audit logs improve security, privacy, and integrity. Successful compliance-focused systems will have all of these features.
-Sequitur is an encrypted information exchange
+
+##### Encrypted information exchange
 Companies rely on many different systems and changing those systems would be costly and time-consuming. Sequitur is not intended to replace those systems. Sequitur instead provides companies a compliance-focused system that establishes standards for encryption of data, sharing of data for compliance use, and decryption of member data by appropriate parties and auditable results, while addressing the three key anti-money laundering concepts by building a neural network within a company’s systems.
-Sequitur implementation occurs in phases:
+Implementation occurs in phases:
 1.	Optimization of anti-money laundering transaction monitoring alerts to reduce useless (i.e., false positive) alert volume. Doing so will improve the effectiveness of the transaction monitoring system, reducing the burden on investigative and other anti-money laundering compliance staff.
 a.	Inputs = alert details, including typology, rule, thresholds, and disposition
 b.	What threshold does the system predict will result in an alert generating?
@@ -74,8 +76,9 @@ b.	Who knows whom – graph database
 c.	Who transacts similarly – cluster analysis
 d.	What can I reasonably predict – each customer is represented by an agent that builds and continuously updates a profile of expected behavior for that customer (think, a network of Nest thermostats that anticipate customer actions)
 3.	Neural network integration and query tool. The more information Sequitur is provided, the more significant the impact the system can have. By monitoring the entirety of a company’s systems, Sequitur can be used to query the system to generate strategies. Businesses can measure the impact changes to products or controls can have system-wide. Functions will transition from creators or doers to testers and generators. 
-Sequitur redefines anti-money laundering compliance programs
-Sequitur adheres to the existing tenets of anti-money laundering compliance, but connects the concepts in such a way that allows for greater program efficiency.
+
+##### Redefines anti-money laundering compliance programs
+Adhere to the existing tenets of anti-money laundering compliance, but connect the concepts in such a way that allows for greater program efficiency.
 1.	Risk assessment
 a.	Business landscape – what do companies do?
 i.	Products and their functionality (features, limits, controls)
@@ -95,7 +98,8 @@ ii.	Supervised machine learning: what should companies care about?
 iii.	Unsupervised machine learning: what do companies need to be aware of?
 c.	Investigations
 d.	Reporting
-Sequitur is designed to recursively learn
+
+##### Design to recursively learn
 1.	Perception – what is happening now?
 2.	Notification – what do I need to know?
 3.	Suggestion – what do you recommend?
