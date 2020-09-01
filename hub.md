@@ -77,22 +77,22 @@ Implementation occurs in phases:
 ### Redefine anti-money laundering compliance programs
 Adhere to the existing tenets of anti-money laundering compliance, but connect the concepts in such a way that allows for greater program efficiency.
 1.	Risk assessment
-  1.	Business landscape – what do companies do?
-    1.	Products and their functionality (features, limits, controls)
-    2.	Services
-    3.	Customer types
-    4.	Geographies
-    5.	Partners and vendors
-  2.	Legal landscape – what do companies have to comply with?
-  3.	Policy landscape – what are companies saying they do?
-    1.	Can companies answer “yes” to everything required under FFIEC exam manual?
-  4.	Business rules, processes, and procedures – how are companies doing what they say they do?
+    1.	Business landscape – what do companies do?
+        1.	Products and their functionality (features, limits, controls)
+        2.	Services
+        3.	Customer types
+        4.	Geographies
+        5.	Partners and vendors
+    2.	Legal landscape – what do companies have to comply with?
+    3.	Policy landscape – what are companies saying they do?
+        1.	Can companies answer “yes” to everything required under FFIEC exam manual?
+    4.	Business rules, processes, and procedures – how are companies doing what they say they do?
 2.	AML Compliance Program
     1.	KYC
     2.	Transaction monitoring
-      1.	Rules and reputation lists: what do companies care about now?
-      2.	Supervised machine learning: what should companies care about?
-      3.	Unsupervised machine learning: what do companies need to be aware of?
+        1.	Rules and reputation lists: what do companies care about now?
+        2.	Supervised machine learning: what should companies care about?
+        3.	Unsupervised machine learning: what do companies need to be aware of?
     3.	Investigations
     4.	Reporting
 
