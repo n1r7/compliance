@@ -1,8 +1,8 @@
-Compliance comes down to:
-1. Maximizing communication: Am I doing what I need to do? Am I communicating as such?
-2. Measuring efficiency: How do I know I am doing what I need to? What are my costs?
+Compliance program:
+1. Maximize communication: Am I doing what I need to do? Am I communicating as such?
+2. Measure efficiency: How do I know I am doing what I need to? What are my costs?
 
-Effectiveness is the culture.  
+**Effectiveness is the culture.**
 1. We know with certainty we fulfil our requirements. 
 2. Help law enforcement fight crime that harms our users.
 
