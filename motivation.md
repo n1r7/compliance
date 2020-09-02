@@ -9,7 +9,7 @@ Underground economies can typically be classified in one or more different ways:
 
 The shadow economy accounts for approximately 16 percent of the global economy; however, developing and transition countries have disproportionally large shadow economies, averaging between 26 and 34 percent of the local economies.
 
-## Why prices continue to increase
+### Why prices continue to increase
 
 Money from the illegal economy has to go somewhere – one cannot pay for everything with or hold an infinite amount of physical currency. Funds from the illegal economy flow to where they are most productive.
 
@@ -57,6 +57,54 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 
 
 
+
+
+
+# Money Laundering
+
+In general, money laundering is “[t]he conversion or transfer of property[] knowing that [it] is derived from” a criminal offense “for the purpose of concealing or disguising the illicit origin of the property” or helping others to do so.[^11]  Under U.S. law, to be criminally liable for money laundering, “a defendant must conduct or attempt to conduct a financial transaction[] knowing that the property involved in the financial transaction represents the proceeds of some unlawful activity, with one of […] four specific intents […] and the property must in fact be derived from a specified unlawful activity.”[^12]
+
+# Terrorist Financing
+
+Money laundering techniques “are essentially the same as those used to conceal the sources of, and uses for, terrorist financing. Funds used to support terrorism may originate from legitimate sources, criminal activities, or both. Nonetheless, disguising the source of terrorist financing, regardless of whether the source is of legitimate or illicit origin, is important. If the source can be concealed, it remains available for future terrorist financing activities. Similarly, it is important for terrorists to conceal the use of the funds so that the financing activity goes undetected.”[^13]
+
+There is an overlap between money laundering and terrorist financing:
+
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Overlap.png?raw=true)
+
+# Tax Laws
+
+As explained above, the shadow economy comprises activity that, if it were legitimate, would be taxable, and laundering money entails converting illicit funds into apparently licit funds. Funds derived from or related to tax crimes require laundering in the same way that any other types of illegally gotten gains do.[^14]  Indeed, “[c]riminals will seek to launder the proceeds from their crimes to pay for [luxury goods] in order to avoid detection by the tax or law enforcement authorities.”[^15]  After surveying 19 countries, the Organization for Economic Cooperation and Development found that “[m]ost countries report that the strategies and techniques used by their tax authorities to detect tax evasion and money laundering” specifically related to identity fraud were “successful in terms of:
+
+- Improving identification of suitable cases to audit;
+- Preventing revenue loss through proactive data mining;
+- Enabling the prosecution of cases that otherwise may have never been detected; and
+- Providing the quickest opportunity to review returns that potentially use a stolen identify before the refunds are issued and thereby likely irretrievable.”[^16]
+
+The Tax Justice Network, a tax-related think tank, reports that as of 2010, using conservative estimates, as much as US$32 trillion in global private wealth was “invested virtually tax-free through the world’s still-expanding black hole of more than 80 ‘offshore’ secrecy jurisdictions.”[^17]
+
+
+# Opportunity
+
+Target community immunity through system adoption and the network effect to reduce system compliance risk. Rather than targeting a solution to each institution, target the interconnectedness of the financial system.
+
+Paragraphs 314(a) and 314(b) of the USA PATRIOT Act create a framework for securely exchanging information between financial institutions and the government for cases that may involve financial crimes or terrorist financing.
+- Banks are afraid of sharing too much information with one another out of fear of violating certain parts of the law
+- Banks already opt-in to the 314(b) program, and share certain information (customer demographics, transaction types, amounts, etc.)
+    - It is an inefficient program, with no standards, accountability, or obligation to respond
+- There is an opportunity for an ecosystem that shares the same information automatically, which makes each institution on the platform with shared customers much stronger in terms of monitoring for suspicious activity
+- The platform can host large banks, small banks, foreign banks, real estate companies, auction houses, hedge funds, and anything that should verify source of funds
+    - This will allow for the most robust transaction monitoring solution available
+- In essence, it allows for monitoring of the entire financial system (provided everyone was on the system)
+
+There is an opportunity to provide an AML transaction monitoring solution that will allow system participants to reduce their compliance staff, provide detailed and pertinent reporting, and provide best in class suspicious activity monitoring.
+- Based on certain PII elements (name, address, phone, SSN, etc.), the platform creates connections across customers, and links and thus monitors more in-depth transactions across customers
+- Participants will be unable to see each other’s private data, as all data will be encrypted on the system, and the platform will automatically make those connections with certain percentage of confidence based on the # of data elements shared and what they are (e.g., SSN is stronger than phone number).
+
+
+
+# Notes
+
 [^1] Emerging from the shadows: the shadow economy to 2025. July 6, 2017. Association of Chartered Certified Accountants, available at www.accaglobal.com.
 
 [^2] Hiding in the Shadows: The Growth of the Underground Economy. March 2002. International Monetary Fund, available at www.imf.org.
@@ -76,4 +124,18 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 [^9] Id.
 
 [^10] An effective system to combat money laundering and terrorist financing, Financial Action Task Force, available at http://www.fatf-gafi.org/publications/mutualevaluations/documents/effectiveness.html.
+
+[^11] World Bank Report at I-2.
+
+[^12] U.S. Dept. of Justice, Money Laundering Overview, available at justice.gov (emphasis in original).
+
+[^13] World Bank Report at I-5.
+
+[^14] See Money Laundering Awareness Handbook for Tax Examiners and Tax Auditors, Organization for Economic Cooperation and Development (2009) at 11, available at oecd.org.
+
+[^15] Id. at 14.
+
+[^16] Report on Identity Fraud: Tax Evasion and Money Laundering Vulnerabilities, Centre for Tax Policy and Administration, Organization for Economic Cooperation and Development (2006) at 11, available at oecd.org.
+
+[^17] James S. Henry, The Price of Offshore Revisited: New Estimates for “Missing” Global Private Wealth, Income, Inequality, and Lost Taxes, Tax Justice Network (2012) at 5, available at taxjustice.net.
 
