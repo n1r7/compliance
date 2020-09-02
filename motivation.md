@@ -25,6 +25,35 @@ Figure 1: Prices globally are inflated 16 percent on average
 The economic impact of illegal economy is worsened because most profit from the illegal shadow economy is not taxed appropriately, resulting in reduced income for countries.
 
 
+# THE FIGHT AGAINST PROFITING FROM THE SHADOW ECONOMY
+
+### Criminalization of Money Laundering
+
+The International Monetary Fund estimates that laundered funds represent between two and five per cent of global gross domestic product.[^5]  “Using 1996 statistics, these percentages would approximate between US $590 billion and US $1.5 trillion.”[^6]
+
+In part in response to the scale of the problem, multiple international treaties call for the criminalization of money laundering as a starting point for any AML/CTF regime:
+- United Nationals Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (1988) (Vienna Convention)
+- United Nations Convention against Transnational Organized Crime (2000) (Palermo Convention)
+
+Criminalization of money laundering in accordance with these conventions is FATF’s first recommendation.[^7]  As international standards have developed, the range of predicate offenses for money laundering has grown.[^8]  The Vienna Convention, Palermo Convention, and FATF Recommendation 1 call for “apply[ing] the crime of money laundering to all serious offenses, with a view to including the widest range of offenses as money laundering predicate offenses.”[^9]
+
+### Anti-Money Laundering Laws and Regulations
+
+Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulations help protect the international financial system from abuse, which promotes the integrity of that system and contributes to its safety and security.[^10]  The Financial Action Task Force (FATF) enumerates 11 pillars of a sound AML/CTF regime that the FATF assesses as part of its ongoing evaluation of countries’ performance in fighting the shadow economy:
+
+| Num |	COMPONENT |	DESCRIPTION |
+| --- | --------- | ----------- |
+| 1  | Risk, policy, and coordination | Money laundering and terrorist financing risks are understood and, where appropriate, actions coordinated domestically to combat money laundering and the financing of terrorism and proliferation. |
+| 2  | International cooperation | International cooperation delivers appropriate information, financial intelligence, and evidence, and facilitates action against criminals and their assets. |
+| 3  | Supervision | Supervisors appropriately supervise, monitor[,] and regulate financial institutions and DNFBPs [designated non-financial businesses and professions] for compliance with AML/CFT requirements commensurate with their risks. |
+| 4  | Preventive measures | Financial institutions and DNFBPs adequately apply AML/CFT preventive measures commensurate with their risks, and report suspicious transactions. |
+| 5  | Legal persons and arrangements | Legal persons and arrangements are prevented from misuse for money laundering or terrorist financing, and information on their beneficial ownership is available to competent authorities without impediments. |
+| 6  | Financial intelligence | Financial intelligence and all other relevant information are appropriately used by competent authorities for money laundering and terrorist financing investigations. |
+| 7  | Money laundering investigation and prosecution | Money laundering [offenses] and activities are investigated and offenders are prosecuted and subject to effective, proportionate[,] and dissuasive sanctions. |
+| 8  | Confiscation | Proceeds and instrumentalities of crime are confiscated. |
+| 9  | Terrorist financing investigation and prosecution | Terrorist financing offenses and activities are investigated and persons who finance terrorism are prosecuted and subject to effective, proportionate[,] and dissuasive sanctions |
+| 10 | Terrorist financing preventive measures and financial sanctions | Terrorists, terrorist organizations[,] and terrorist financiers are prevented from raising, moving[,] and using funds, and from abusing the NPO sector. |
+| 11 | Proliferation financial sanctions | Persons and entities involved in the proliferation of weapons of mass destruction are prevented from raising, moving[,] and using funds, consistent with the relevant [UN Security Council Resolutions] |
 
 
 
@@ -35,3 +64,16 @@ The economic impact of illegal economy is worsened because most profit from the 
 [^3] Defining and Estimating Underground and Informal Economies: The New Institutional Economics Approach. 1990. Edgar L. Feige, University of Wisconsin-Madison, available at core.ac.uk. 
 
 [^4] The Shadow Economy. 2013. The Institute of Economic Affairs, available at iea.org.uk.
+
+[^5] Reference Guide to Anti-Money Laundering and Combating the Financing of Terrorism, World Bank (hereinafter, World Bank Report) at I-6, available at worldbank.org.
+
+[^6] Id.
+
+[^7] World Bank Report at V-2-3.
+
+[^8] Id.
+
+[^9] Id.
+
+[^10] An effective system to combat money laundering and terrorist financing, Financial Action Task Force, available at http://www.fatf-gafi.org/publications/mutualevaluations/documents/effectiveness.html.
+
