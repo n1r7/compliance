@@ -2,22 +2,33 @@
 The shadow economy is “the market-based production of and payment for legal goods and services that are deliberately concealed from public authorities”.[^1]  Also called the underground, informal, or parallel economy, the shadow economy includes not only illegal activities, but also unreported income from the production of legal goods and services, either from monetary or barter transactions. In other words, the shadow economy comprises all economic activities that would generally be taxable were they reported to the tax authorities.[^2]
 
 Underground economies can typically be classified in one or more different ways:[^3]
-1. The illegal economy consists of the income produced by those economic activities pursued in violation of legal statues defining the scope of legitimate forms of commerce. Illegal activities that involve monetary transactions include: trade in stolen goods; drug manufacturing, trafficking, and dealing; prostitution; gambling; smuggling; fraud; human trafficking; and weapons trafficking.[^4]
-2.	The unreported economy consists of those economic activities that circumvent or evade the institutionally established fiscal rules as codified in tax code. A summary measure of the unreported economy is the amount of income that should be reported to the tax authority but is not so reported.
-3.	The unrecorded economy consists of those economic activities that circumvent the institutional rules that define the reporting requirements of government statistical agencies. A summary measure of the unrecorded economy is the amount of unrecorded income, which represents a discrepancy between total income or output and the actual amount of income or output captured or enumerated by the statistical accounting system designed to measure economic activity.
-4.	The informal economy comprises those economic activities that circumvent the costs and are excluded from the benefits and rights incorporated in the laws and administrative rules covering property relationships, commercial licensing, labor contracts, tors, financial credit, and social security systems.
+1. The **illegal economy** consists of the income produced by those economic activities pursued in violation of legal statutes defining the scope of legitimate forms of commerce.
+    - Illegal activities that involve monetary transactions include:[^4]
+        - Trade in stolen goods;
+        - Drug manufacturing, trafficking, and dealing;
+        - Prostitution;
+        - Gambling; 
+        - Smuggling; 
+        - Fraud; 
+        - Human trafficking; and 
+        - Weapons trafficking.
+2.	The **unreported economy** consists of those economic activities that circumvent or evade the institutionally established fiscal rules as codified in tax code.
+    - A summary measure of the unreported economy is the amount of income that should be reported to the tax authority but is not so reported.
+3.	The **unrecorded economy** consists of those economic activities that circumvent the institutional rules that define the reporting requirements of government statistical agencies.
+    - A summary measure of the unrecorded economy is the amount of unrecorded income, which represents a discrepancy between total income or output and the actual amount of income or output captured or enumerated by the statistical accounting system designed to measure economic activity.
+4.	The **informal economy** comprises those economic activities that circumvent the costs and are excluded from the benefits and rights incorporated in the laws and administrative rules covering property relationships, commercial licensing, labor contracts, tors, financial credit, and social security systems.
 
 The shadow economy accounts for approximately 16 percent of the global economy; however, developing and transition countries have disproportionally large shadow economies, averaging between 26 and 34 percent of the local economies.
 
 ### Why prices continue to increase
 
-Money from the illegal economy has to go somewhere – one cannot pay for everything with or hold an infinite amount of physical currency. Funds from the illegal economy flow to where they are most productive.
+Money from the illegal economy has to go somewhere – people cannot pay for everything with or hold an infinite amount of physical currency. Funds from the illegal economy flow to where they are most productive.
 
 For a given market of a product (encompasses all goods and services), demand is the relation of the quantity that all buyers would be prepared to purchase at each unit price. People value products differently than one another. For example, two potential tenants may value an apartment differently – one potential tenant sees $1,500 per month as a value, while the other sees $1,500 as overpriced. While this difference could be for a combination of reasons, generally, high prices will limit most people’s ability to afford a given product.
 
-Prices for legal goods and services should be driven by demand from the legal economy. In this utopic world, all people have legal employment and contribute to economic growth through taxes collected. When people do not 
+Prices for legal goods and services _should_ be driven by demand from the legal economy. In this utopic world, all people have legal employment and contribute to economic growth through taxes collected. When people do not 
 
-Participants of the legal economy and illegal economy demand products from the legal economy equally, i.e., every person has the same basic needs (water, food, shelter), which are provided by the legal economy. An increase in demand without a corresponding increase in supply leads to higher prices. These price increases impact more than the demand for expensive items typically thought of ways to store assets (e.g., real estate, art, jewelry). Everyday expenses, such as rent, groceries, and transportation are also affected. Individuals who profit from the illegal economy inflate demand and increase prices every time they introduce illegally obtained funds into the legal economy.
+Participants of the legal economy and illegal economy demand products from the legal economy equally, i.e., every person has the same basic needs (water, food, shelter) that are provided by the legal economy. An increase in demand without a corresponding increase in supply leads to higher prices. These price increases impact more than the demand for expensive items typically considered valuable assets (e.g., real estate, art, jewelry). Everyday expenses, such as rent, groceries, and transportation are also affected. Individuals who profit from the illegal economy inflate demand and increase prices every time they introduce illegally obtained funds into the legal economy.
 
 Figure 1: Prices globally are inflated 16 percent on average
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Inflated%20prices.png?raw=true)
@@ -29,7 +40,7 @@ The economic impact of illegal economy is worsened because most profit from the 
 
 ### Criminalization of Money Laundering
 
-The International Monetary Fund estimates that laundered funds represent between two and five per cent of global gross domestic product.[^5]  “Using 1996 statistics, these percentages would approximate between US $590 billion and US $1.5 trillion.”[^6]
+The International Monetary Fund estimates that laundered funds represent between two and five percent of global gross domestic product.[^5]  Using World Bank estimates for GDP and applying IMF's estimate, between $1.75 trillion and $4.38 trillion were laundered in 2019.
 
 In part in response to the scale of the problem, multiple international treaties call for the criminalization of money laundering as a starting point for any AML/CTF regime:
 - United Nationals Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (1988) (Vienna Convention)
@@ -62,7 +73,7 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 
 # Money Laundering
 
-In general, money laundering is “[t]he conversion or transfer of property[] knowing that [it] is derived from” a criminal offense “for the purpose of concealing or disguising the illicit origin of the property” or helping others to do so.[^11]  Under U.S. law, to be criminally liable for money laundering, “a defendant must conduct or attempt to conduct a financial transaction[] knowing that the property involved in the financial transaction represents the proceeds of some unlawful activity, with one of […] four specific intents […] and the property must in fact be derived from a specified unlawful activity.”[^12]
+In general, money laundering is _the conversion or transfer of property knowing that it is derived from a criminal offense for the purpose of concealing or disguising the illicit origin of the property or helping others to do so_.[^11]  Under U.S. law, to be criminally liable for money laundering, “a defendant must conduct or attempt to conduct a financial transaction[] knowing that the property involved in the financial transaction represents the proceeds of some unlawful activity, with one of […] four specific intents […] and the property must in fact be derived from a specified unlawful activity.”[^12]
 
 # Terrorist Financing
 
@@ -74,7 +85,7 @@ There is an overlap between money laundering and terrorist financing:
 
 # Tax Laws
 
-As explained above, the shadow economy comprises activity that, if it were legitimate, would be taxable, and laundering money entails converting illicit funds into apparently licit funds. Funds derived from or related to tax crimes require laundering in the same way that any other types of illegally gotten gains do.[^14]  Indeed, “[c]riminals will seek to launder the proceeds from their crimes to pay for [luxury goods] in order to avoid detection by the tax or law enforcement authorities.”[^15]  After surveying 19 countries, the Organization for Economic Cooperation and Development found that “[m]ost countries report that the strategies and techniques used by their tax authorities to detect tax evasion and money laundering” specifically related to identity fraud were “successful in terms of:
+The shadow economy comprises activity that if it were legitimate, would be taxable, and laundering money entails converting illicit funds into apparently licit funds. Funds derived from or related to tax crimes require laundering in the same way that any other types of illegally gotten gains do.[^14]  Indeed, “[c]riminals will seek to launder the proceeds from their crimes to pay for [luxury goods] in order to avoid detection by the tax or law enforcement authorities.”[^15]  After surveying 19 countries, the Organization for Economic Cooperation and Development found that “[m]ost countries report that the strategies and techniques used by their tax authorities to detect tax evasion and money laundering” specifically related to identity fraud were “successful in terms of:
 
 - Improving identification of suitable cases to audit;
 - Preventing revenue loss through proactive data mining;
@@ -88,11 +99,11 @@ The Tax Justice Network, a tax-related think tank, reports that as of 2010, usin
 
 Target community immunity through system adoption and the network effect to reduce system compliance risk. Rather than targeting a solution to each institution, target the interconnectedness of the financial system.
 
-Paragraphs 314(a) and 314(b) of the USA PATRIOT Act create a framework for securely exchanging information between financial institutions and the government for cases that may involve financial crimes or terrorist financing.
-- Banks are afraid of sharing too much information with one another out of fear of violating certain parts of the law
-- Banks already opt-in to the 314(b) program, and share certain information (customer demographics, transaction types, amounts, etc.)
-    - It is an inefficient program, with no standards, accountability, or obligation to respond
-- There is an opportunity for an ecosystem that shares the same information automatically, which makes each institution on the platform with shared customers much stronger in terms of monitoring for suspicious activity
+Paragraphs 314(a) and 314(b) of the USA PATRIOT Act create a framework for securely exchanging information between financial institutions and the government for cases that may involve financial crimes or terrorist financing. However, information sharing amongst financial institutions is minimal. The program is not centrally governed, leading to an inefficient program with no standards, accountability, or obligation to respond.
+
+An ecosystem that shares relevant financial-crimes-compliance information automatically will make each member in the ecosystem stronger, by linking and validating user information and monitoring activity across the entire network. 
+
+
 - The platform can host large banks, small banks, foreign banks, real estate companies, auction houses, hedge funds, and anything that should verify source of funds
     - This will allow for the most robust transaction monitoring solution available
 - In essence, it allows for monitoring of the entire financial system (provided everyone was on the system)
