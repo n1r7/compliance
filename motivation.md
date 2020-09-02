@@ -1,8 +1,8 @@
 # THE SHADOW ECONOMY
-The shadow economy is “the market-based production of and payment for legal goods and services that are deliberately concealed from public authorities”.  Also called the underground, informal, or parallel economy, the shadow economy includes not only illegal activities, but also unreported income from the production of legal goods and services, either from monetary or barter transactions. In other words, the shadow economy comprises all economic activities that would generally be taxable were they reported to the tax authorities. 
+The shadow economy is “the market-based production of and payment for legal goods and services that are deliberately concealed from public authorities”.[^1]  Also called the underground, informal, or parallel economy, the shadow economy includes not only illegal activities, but also unreported income from the production of legal goods and services, either from monetary or barter transactions. In other words, the shadow economy comprises all economic activities that would generally be taxable were they reported to the tax authorities.[^2]
 
-Underground economies can typically be classified in one or more different ways: 
-1.	The illegal economy consists of the income produced by those economic activities pursued in violation of legal statues defining the scope of legitimate forms of commerce. Illegal activities that involve monetary transactions include: trade in stolen goods; drug manufacturing, trafficking, and dealing; prostitution; gambling; smuggling; fraud; human trafficking; and weapons trafficking. 
+Underground economies can typically be classified in one or more different ways:[^3]
+1. The illegal economy consists of the income produced by those economic activities pursued in violation of legal statues defining the scope of legitimate forms of commerce. Illegal activities that involve monetary transactions include: trade in stolen goods; drug manufacturing, trafficking, and dealing; prostitution; gambling; smuggling; fraud; human trafficking; and weapons trafficking.[^4]
 2.	The unreported economy consists of those economic activities that circumvent or evade the institutionally established fiscal rules as codified in tax code. A summary measure of the unreported economy is the amount of income that should be reported to the tax authority but is not so reported.
 3.	The unrecorded economy consists of those economic activities that circumvent the institutional rules that define the reporting requirements of government statistical agencies. A summary measure of the unrecorded economy is the amount of unrecorded income, which represents a discrepancy between total income or output and the actual amount of income or output captured or enumerated by the statistical accounting system designed to measure economic activity.
 4.	The informal economy comprises those economic activities that circumvent the costs and are excluded from the benefits and rights incorporated in the laws and administrative rules covering property relationships, commercial licensing, labor contracts, tors, financial credit, and social security systems.
@@ -17,3 +17,12 @@ Participants of the legal economy and illegal economy demand products from the l
 Figure 1: Prices globally are inflated 16 percent on average
  
 The economic impact of illegal economy is worsened because most profit from the illegal shadow economy is not taxed appropriately, resulting in reduced income for countries.
+
+
+
+
+
+[^1] Emerging from the shadows: the shadow economy to 2025. July 6, 2017. Association of Chartered Certified Accountants, available at www.accaglobal.com.
+[^2] Hiding in the Shadows: The Growth of the Underground Economy. March 2002. International Monetary Fund, available at www.imf.org.
+[^3] Defining and Estimating Underground and Informal Economies: The New Institutional Economics Approach. 1990. Edgar L. Feige, University of Wisconsin-Madison, available at core.ac.uk. 
+[^4] The Shadow Economy. 2013. The Institute of Economic Affairs, available at iea.org.uk.
