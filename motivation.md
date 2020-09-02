@@ -10,12 +10,18 @@ Underground economies can typically be classified in one or more different ways:
 The shadow economy accounts for approximately 16 percent of the global economy; however, developing and transition countries have disproportionally large shadow economies, averaging between 26 and 34 percent of the local economies.
 
 ## Why prices continue to increase
+
 Money from the illegal economy has to go somewhere – one cannot pay for everything with or hold an infinite amount of physical currency. Funds from the illegal economy flow to where they are most productive.
+
 For a given market of a product (encompasses all goods and services), demand is the relation of the quantity that all buyers would be prepared to purchase at each unit price. People value products differently than one another. For example, two potential tenants may value an apartment differently – one potential tenant sees $1,500 per month as a value, while the other sees $1,500 as overpriced. While this difference could be for a combination of reasons, generally, high prices will limit most people’s ability to afford a given product.
+
 Prices for legal goods and services should be driven by demand from the legal economy. In this utopic world, all people have legal employment and contribute to economic growth through taxes collected. When people do not 
+
 Participants of the legal economy and illegal economy demand products from the legal economy equally, i.e., every person has the same basic needs (water, food, shelter), which are provided by the legal economy. An increase in demand without a corresponding increase in supply leads to higher prices. These price increases impact more than the demand for expensive items typically thought of ways to store assets (e.g., real estate, art, jewelry). Everyday expenses, such as rent, groceries, and transportation are also affected. Individuals who profit from the illegal economy inflate demand and increase prices every time they introduce illegally obtained funds into the legal economy.
+
 Figure 1: Prices globally are inflated 16 percent on average
- 
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Inflated%20prices.png?raw=true)
+
 The economic impact of illegal economy is worsened because most profit from the illegal shadow economy is not taxed appropriately, resulting in reduced income for countries.
 
 
@@ -23,6 +29,9 @@ The economic impact of illegal economy is worsened because most profit from the 
 
 
 [^1] Emerging from the shadows: the shadow economy to 2025. July 6, 2017. Association of Chartered Certified Accountants, available at www.accaglobal.com.
+
 [^2] Hiding in the Shadows: The Growth of the Underground Economy. March 2002. International Monetary Fund, available at www.imf.org.
+
 [^3] Defining and Estimating Underground and Informal Economies: The New Institutional Economics Approach. 1990. Edgar L. Feige, University of Wisconsin-Madison, available at core.ac.uk. 
+
 [^4] The Shadow Economy. 2013. The Institute of Economic Affairs, available at iea.org.uk.
