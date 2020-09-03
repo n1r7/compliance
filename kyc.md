@@ -1,25 +1,26 @@
 # KYC
 
+Store every available piece of information on a blockchain so that user input, system-generated connections, and the status, method, and proof of verification are included within the user record. 
 
+- What do customers share?
+  - Social media
+- How do customers pay?
+  - Internal records
+     - Accounts
+     - Transactions
+  - What do customers own?
+     - Internal records
+     - Public records
+  - What do customers value?
+     - Internal records
+        - Transaction trends
+- What influences customers?
+  - Social media connections
+  - Family
+- What is a customer’s income?
+  - Internal records
+  - Public records
 - What can the system reasonably predict?
-   - What do customers share?
-      - Social media
-   - How do customers pay?
-      - Internal records
-         - Accounts
-         - Transactions
-      - What do customers own?
-         - Internal records
-         - Public records
-      - What do customers value?
-         - Internal records
-            - Transaction trends
-   - What influences customers?
-      - Social media connections
-      - Family
-   - What is a customer’s income?
-      - Internal records
-      - Public records
 
 
 
