@@ -19,7 +19,7 @@
 
 
 # INTRODUCTION
-Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfil Novi's legal and regulatory obligations to monitor for the potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are 
+Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfil its legal and regulatory obligations to monitor for the potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are 
 
 # WHY WE CARE
 ### The Shadow Economy
@@ -62,7 +62,7 @@ The economic impact of illegal economy is worsened because most profit from the 
 ### Money Laundering
 In general, money laundering is _the conversion or transfer of property knowing that it is derived from a criminal offense for the purpose of concealing or disguising the illicit origin of the property or helping others to do so_.[^11]  Under U.S. law, to be criminally liable for money laundering, “a defendant must conduct or attempt to conduct a financial transaction[] knowing that the property involved in the financial transaction represents the proceeds of some unlawful activity, with one of […] four specific intents […] and the property must in fact be derived from a specified unlawful activity.”[^12]
 
-Money laundering is the criminal practice of processing illicit funds throuhg a series of transactions designed to "clean" the funds so they appear to be the proceeds of lawful activity (Federal Financial Institutions Examination Council). 
+Money laundering is the criminal practice of processing illicit funds through a series of transactions designed to "clean" the funds so they appear to be the proceeds of lawful activity (Federal Financial Institutions Examination Council). 
 
 The _enable, distance, and disguise_ model (Stephen Platt, Criminal Capital: How the Finance Industry Facilitates Crime) describes money laundering in terms of the objectives of the criminal, who seeks to:
 - Succeed in perpetrating a crime
@@ -75,11 +75,11 @@ The _enable, distance, and disguise_ model (Stephen Platt, Criminal Capital: How
 Money laundering is a diverse and often complex process. From a financial perspective, it occurs via one or more discrete steps:
 1. **Placement**: Introducing illicit funds into Libra, ideally without attracting the attention of financial institutions or law enforcement.
 2. **Layering**: Moving funds within Libra and the broader financial system, often in a complex series of transactions, to create confusion about the source of funds and complicate the transaction trail.
-3. **Integration**: The ultimate goal of money laundering--using ilicit funds to purchase licit goods and services.
+3. **Integration**: The ultimate goal of money laundering--using illicit funds to purchase licit goods and services.
 
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Placement%20Layering%20Integration.png?raw=true)
 
-The _enable, distance, disguise_ model takes into account that a criminal can make beneficial use of illicit funds (i.e. launder them) without ever placing, layering, or integrating them. In either model, the underlying question is the same: _What advantage does the product or service confer upon a user?_ It is critical to understand how a product's features make it vulnerable to money laundering, and to what extect existing limits and controls mitigate that risk.
+The _enable, distance, disguise_ model takes into account that a criminal can make beneficial use of illicit funds (i.e. launder them) without ever placing, layering, or integrating them. In either model, the underlying question is the same: _What advantage does the product or service confer upon a user?_ It is critical to understand how a product's features make it vulnerable to money laundering, and to what extent existing limits and controls mitigate that risk.
 
 ### Terrorist Financing
 There is no universal definition of terrorism, but U.S. law is instructive in defining it as violet or dangerous acts that appear to be intended to:
@@ -141,16 +141,16 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 
 # WHAT WE DO
 
-The Libra Payment System was designed to be secure and safe. Because the Libra database is based on merkle trees, each transaction on the network is referenceable, and each component of each transaction is verified. These unique properties strengthen and streamline risk and compliance processes. 
+The Libra Payment System was designed to be secure and safe. Because the Libra database is based on Merkle trees, each transaction on the network is referenceable, and each component of each transaction is verified. These unique properties strengthen and streamline risk and compliance processes. 
 
-The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Novi seeks to avoid these shorcomings. 
+The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Novi seeks to avoid these shortcomings. 
 
 To effectively fight financial crime, Libra members must:
 - Collectively validate users of the network
 - Share intelligence and detection models
 - Work together to continuously improve
 
-Novi's AML program is based on trust. Much like Libra, it uses distributed ledgers and merkle trees to ensure appropriate information is collected and verified, and available for review. 
+Novi's AML program is based on trust. Much like Libra, it uses distributed ledgers and Merkle trees to ensure appropriate information is collected and verified, and available for review. 
 - We verify all users, so they can transact quickly and with confidence
 - We review every transaction, so Libra can remain secure and safe
 - We communicate with our regulators and collaborate with peers on building effective controls
@@ -172,7 +172,7 @@ Many organizations use the _lines of defense_ model for risk management (Financi
     
 Libra's unique features and Novi's immutable AML database impact the traditional lines of defense model. By making compliance an inherent part of the transaction process, Novi can prove it has fulfilled its compliance obligations.
 1. First line of defense
-    - Product risks are mitigated through the transaction processing process, which has build-in controls based on Move
+    - Product risks are mitigated through the transaction processing process, which has built-in controls based on Move
 2. Second line of defense
     - Requirements are implemented as protocols
 3. Third line of defense
@@ -180,7 +180,7 @@ Libra's unique features and Novi's immutable AML database impact the traditional
 
 
     
-### Program componenets
+### Program components
 - **Policies** outline how Novi ensures it conducts business lawfully.
 - **Processes** implement policies.
 - **Procedures** describe how to run processes.
@@ -192,7 +192,7 @@ Libra's unique features and Novi's immutable AML database impact the traditional
 
 
 ### Monitoring
-Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Novi's transaction-monitoring strategy calls for:
+Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolfsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Novi's transaction-monitoring strategy calls for:
 - A comprehensive understanding of products offered by Novi, which enables identification of their money-laundering vulnerabilities;
 - Thorough and clear documentation and governance, which are pillars of a sustainable program; and
 - Technologies that can help Novi prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse of Libra.
@@ -305,7 +305,7 @@ Transactions features:
 1. Identify threats
 2. Document risks
 3. Review authoritative sources
-4. Reivew investigations narratives, if any
+4. Review investigations narratives, if any
 5. Define typology based on authoritative sources and observed behavior
 6. Define features that enable risks
 7. Define expected behavior
@@ -347,10 +347,10 @@ Transactions features:
     "measurement" : "count",
     "feature_name" : "shared demographics",
     "feature_description" : "scores when more than one user shares demographic information",
-    "feature_calculation" : "min(1,ln(number of users with deographic information value))",
+    "feature_calculation" : "min(1,ln(number of users with demographic information value))",
 }
 {
-    "behavior" : "The more frequent the change in deographic information, the greater the risk",
+    "behavior" : "The more frequent the change in demographic information, the greater the risk",
     "risks" : ["money laundering", "fraud"],
     "expected_behavior" : "The user never updates demographic information",
     "risky_behavior" : "The user updates demographic information more than twice in a 3-month period",
