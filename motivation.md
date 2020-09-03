@@ -1,4 +1,8 @@
-# THE SHADOW ECONOMY
+# INTRODUCTION
+Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfil Novi's legal and regulatory obligations to monitor for the potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are 
+
+# WHY WE CARE
+### The Shadow Economy
 The shadow economy is “the market-based production of and payment for legal goods and services that are deliberately concealed from public authorities”.[^1]  Also called the underground, informal, or parallel economy, the shadow economy includes not only illegal activities, but also unreported income from the production of legal goods and services, either from monetary or barter transactions. In other words, the shadow economy comprises all economic activities that would generally be taxable were they reported to the tax authorities.[^2]
 
 Underground economies can typically be classified in one or more different ways:[^3]
@@ -35,8 +39,56 @@ Figure 1: Prices globally are inflated 16 percent on average
 
 The economic impact of illegal economy is worsened because most profit from the illegal shadow economy is not taxed appropriately, resulting in reduced income for countries.
 
+### Money Laundering
+In general, money laundering is _the conversion or transfer of property knowing that it is derived from a criminal offense for the purpose of concealing or disguising the illicit origin of the property or helping others to do so_.[^11]  Under U.S. law, to be criminally liable for money laundering, “a defendant must conduct or attempt to conduct a financial transaction[] knowing that the property involved in the financial transaction represents the proceeds of some unlawful activity, with one of […] four specific intents […] and the property must in fact be derived from a specified unlawful activity.”[^12]
 
-# THE FIGHT AGAINST PROFITING FROM THE SHADOW ECONOMY
+Money laundering is the criminal practice of processing illicit funds throuhg a series of transactions designed to "clean" the funds so they appear to be the proceeds of lawful activity (Federal Financial Institutions Examination Council). 
+
+The _enable, distance, and disguise_ model (Stephen Platt, Criminal Capital: How the Finance Industry Facilitates Crime) describes money laundering in terms of the objectives of the criminal, who seeks to:
+- Succeed in perpetrating a crime
+- Avoid detection
+- Benefit from the crime
+- Retain those benefits
+
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Enable%20Distance%20Disguise.png?raw=true)
+
+Money laundering is a diverse and often complex process. From a financial perspective, it occurs via one or more discrete steps:
+1. **Placement**: Introducing illicit funds into Libra, ideally without attracting the attention of financial institutions or law enforcement.
+2. **Layering**: Moving funds within Libra and the broader financial system, often in a complex series of transactions, to create confusion about the source of funds and complicate the transaction trail.
+3. **Integration**: The ultimate goal of money laundering--using ilicit funds to purchase licit goods and services.
+
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Placement%20Layering%20Integration.png?raw=true)
+
+The _enable, distance, disguise_ model takes into account that a criminal can make beneficial use of illicit funds (i.e. launder them) without ever placing, layering, or integrating them. In either model, the underlying question is the same: _What advantage does the product or service confer upon a user?_ It is critical to understand how a product's features make it vulnerable to money laundering, and to what extect existing limits and controls mitigate that risk.
+
+### Terrorist Financing
+There is no universal definition of terrorism, but U.S. law is instructive in defining it as violet or dangerous acts that appear to be intended to:
+- Intimidate or coerce a civilian population;
+- Influence the policy of a government by intimidation or coercion; or
+- Affect the conduct of a government by mass destruction, assassination, kidnapping, or hostage taking.
+
+**Terrorist financing** is the provision or collection of funds with the intent that they be used, or with the knowledge that they will be used, in full or in part, to carry out an act of terrorism. The funds used for terrorist financing can be funds of any kind, however acquired (18 U.S.C. 2339C).
+
+In contrast to money laundering, which involves the disguising of funds derived from illegal activity so they may be used without detection of the illegal activity, terrorist financing can involve the use of legally derived money to carry out illegal activities. The objective of money laundering is financial gain or the disguising of illicit proceeds, whereas with terrorism, the objective is to promote the agenda or cause of the terrorist organization. Both money launderers and terrorists, however, attempt to disguise the association between themselves and their funding sources.
+
+Money laundering techniques “are essentially the same as those used to conceal the sources of, and uses for, terrorist financing. Funds used to support terrorism may originate from legitimate sources, criminal activities, or both. Nonetheless, disguising the source of terrorist financing, regardless of whether the source is of legitimate or illicit origin, is important. If the source can be concealed, it remains available for future terrorist financing activities. Similarly, it is important for terrorists to conceal the use of the funds so that the financing activity goes undetected.”[^13]
+
+There is an overlap between money laundering and terrorist financing:
+
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Overlap.png?raw=true)
+
+### Tax Avoidance
+
+The shadow economy comprises activity that if it were legitimate, would be taxable, and laundering money entails converting illicit funds into apparently licit funds. Funds derived from or related to tax crimes require laundering in the same way that any other types of illegally gotten gains do.[^14]  Indeed, “[c]riminals will seek to launder the proceeds from their crimes to pay for [luxury goods] in order to avoid detection by the tax or law enforcement authorities.”[^15]  After surveying 19 countries, the Organization for Economic Cooperation and Development found that “[m]ost countries report that the strategies and techniques used by their tax authorities to detect tax evasion and money laundering” specifically related to identity fraud were “successful in terms of:
+
+- Improving identification of suitable cases to audit;
+- Preventing revenue loss through proactive data mining;
+- Enabling the prosecution of cases that otherwise may have never been detected; and
+- Providing the quickest opportunity to review returns that potentially use a stolen identify before the refunds are issued and thereby likely irretrievable.”[^16]
+
+The Tax Justice Network, a tax-related think tank, reports that as of 2010, using conservative estimates, as much as US$32 trillion in global private wealth was “invested virtually tax-free through the world’s still-expanding black hole of more than 80 ‘offshore’ secrecy jurisdictions.”[^17]
+
+
 
 ### Criminalization of Money Laundering
 
@@ -68,31 +120,6 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 
 
 
-
-
-
-# Money Laundering
-
-In general, money laundering is _the conversion or transfer of property knowing that it is derived from a criminal offense for the purpose of concealing or disguising the illicit origin of the property or helping others to do so_.[^11]  Under U.S. law, to be criminally liable for money laundering, “a defendant must conduct or attempt to conduct a financial transaction[] knowing that the property involved in the financial transaction represents the proceeds of some unlawful activity, with one of […] four specific intents […] and the property must in fact be derived from a specified unlawful activity.”[^12]
-
-# Terrorist Financing
-
-Money laundering techniques “are essentially the same as those used to conceal the sources of, and uses for, terrorist financing. Funds used to support terrorism may originate from legitimate sources, criminal activities, or both. Nonetheless, disguising the source of terrorist financing, regardless of whether the source is of legitimate or illicit origin, is important. If the source can be concealed, it remains available for future terrorist financing activities. Similarly, it is important for terrorists to conceal the use of the funds so that the financing activity goes undetected.”[^13]
-
-There is an overlap between money laundering and terrorist financing:
-
-![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Overlap.png?raw=true)
-
-# Tax Laws
-
-The shadow economy comprises activity that if it were legitimate, would be taxable, and laundering money entails converting illicit funds into apparently licit funds. Funds derived from or related to tax crimes require laundering in the same way that any other types of illegally gotten gains do.[^14]  Indeed, “[c]riminals will seek to launder the proceeds from their crimes to pay for [luxury goods] in order to avoid detection by the tax or law enforcement authorities.”[^15]  After surveying 19 countries, the Organization for Economic Cooperation and Development found that “[m]ost countries report that the strategies and techniques used by their tax authorities to detect tax evasion and money laundering” specifically related to identity fraud were “successful in terms of:
-
-- Improving identification of suitable cases to audit;
-- Preventing revenue loss through proactive data mining;
-- Enabling the prosecution of cases that otherwise may have never been detected; and
-- Providing the quickest opportunity to review returns that potentially use a stolen identify before the refunds are issued and thereby likely irretrievable.”[^16]
-
-The Tax Justice Network, a tax-related think tank, reports that as of 2010, using conservative estimates, as much as US$32 trillion in global private wealth was “invested virtually tax-free through the world’s still-expanding black hole of more than 80 ‘offshore’ secrecy jurisdictions.”[^17]
 
 
 # Opportunity
