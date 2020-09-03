@@ -101,16 +101,14 @@ Target community immunity through system adoption and the network effect to redu
 
 Paragraphs 314(a) and 314(b) of the USA PATRIOT Act create a framework for securely exchanging information between financial institutions and the government for cases that may involve financial crimes or terrorist financing. However, information sharing amongst financial institutions is minimal. The program is not centrally governed, leading to an inefficient program with no standards, accountability, or obligation to respond.
 
-An ecosystem that shares relevant financial-crimes-compliance information automatically will make each member in the ecosystem stronger, by linking and validating user information and monitoring activity across the entire network. 
+A blockchain that shares relevant financial-crimes-compliance information will make each member in the financial system stronger, by linking and validating user information, and allowing activity across the entire network to be monitored.
+
+- Shared data creates connections between users.
+- Participants can verify source of funds for each transaction.
+- Transactions include wallet hosts, , and monitors transactions between users
+- Participants will be unable to see private data (all data is encrypted)
 
 
-- The platform can host large banks, small banks, foreign banks, real estate companies, auction houses, hedge funds, and anything that should verify source of funds
-    - This will allow for the most robust transaction monitoring solution available
-- In essence, it allows for monitoring of the entire financial system (provided everyone was on the system)
-
-There is an opportunity to provide an AML transaction monitoring solution that will allow system participants to reduce their compliance staff, provide detailed and pertinent reporting, and provide best in class suspicious activity monitoring.
-- Based on certain PII elements (name, address, phone, SSN, etc.), the platform creates connections across customers, and links and thus monitors more in-depth transactions across customers
-- Participants will be unable to see each other’s private data, as all data will be encrypted on the system, and the platform will automatically make those connections with certain percentage of confidence based on the # of data elements shared and what they are (e.g., SSN is stronger than phone number).
 
 
 
