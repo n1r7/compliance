@@ -40,7 +40,7 @@ The economic impact of illegal economy is worsened because most profit from the 
 
 ### Criminalization of Money Laundering
 
-The International Monetary Fund estimates that laundered funds represent between two and five percent of global gross domestic product.[^5]  Using World Bank estimates for GDP and applying IMF's estimate, between $1.75 trillion and $4.38 trillion were laundered in 2019.
+The International Monetary Fund estimates that laundered funds represent between two and five percent of global gross domestic product.[^5]  Using World Bank estimates for GDP and applying IMF's estimate, between $1.75 trillion and $4.38 trillion were laundered in 2019. Criminality is profitable.
 
 In part in response to the scale of the problem, multiple international treaties call for the criminalization of money laundering as a starting point for any AML/CTF regime:
 - United Nationals Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (1988) (Vienna Convention)
