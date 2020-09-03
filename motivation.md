@@ -119,21 +119,289 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 | 11 | Proliferation financial sanctions | Persons and entities involved in the proliferation of weapons of mass destruction are prevented from raising, moving[,] and using funds, consistent with the relevant [UN Security Council Resolutions] |
 
 
+# WHAT WE DO
 
+The Libra Payment System was designed to be secure and safe. Because the Libra database is based on merkle trees, each transaction on the network is referenceable, and each component of each transaction is verified. These unique properties strengthen and streamline risk and compliance processes. 
 
+The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Novi seeks to avoid these shorcomings. 
 
-# Opportunity
+To effectively fight financial crime, Libra members must:
+- Collectively validate users of the network
+- Share intelligence and detection models
+- Work together to continuously improve
 
-Target community immunity through system adoption and the network effect to reduce system compliance risk. Rather than targeting a solution to each institution, target the interconnectedness of the financial system.
+Novi's AML program is based on trust. Much like Libra, it uses distributed ledgers and merkle trees to ensure appropriate information is collected and verified, and available for review. 
+- We verify all users, so they can transact quickly and with confidence
+- We review every transaction, so Libra can remain secure and safe
+- We communicate with our regulators and collaborate with peers on building effective controls
 
-Paragraphs 314(a) and 314(b) of the USA PATRIOT Act create a framework for securely exchanging information between financial institutions and the government for cases that may involve financial crimes or terrorist financing. However, information sharing amongst financial institutions is minimal. The program is not centrally governed, leading to an inefficient program with no standards, accountability, or obligation to respond.
-
-A blockchain that shares relevant financial-crimes-compliance information will make each member in the financial system stronger, by linking and validating user information, and allowing activity across the entire network to be monitored.
-
+Novi's AML compliance framework links and validates user information, and allows activity across the entire network to be monitored.
 - Shared data creates connections between users.
 - Participants can verify source of funds for each transaction.
 - Transactions include wallet hosts, , and monitors transactions between users
 - Participants will be unable to see private data (all data is encrypted)
+
+### Risk Management
+Many organizations use the _lines of defense_ model for risk management (Financial Stability Institute "Four Lines of Defense Model"). With this model, risk-management responsibilities are divided into general categories.
+1. First line of defense: Business operations
+    - As the first line of defense, businesses are responsible for assessing and managing the risks posted by their products. To that end, the first line of defense, with the support of the second line, is responsible for verifying that product offerings, processes, and operations are lawful and managed appropriately.
+2. Second line of defense: Compliance and risk functions
+    - The second line of defense is responsible for monitoring and reporting risk-related practices and information, and overseeing compliance-related issues. The second line of defense sets standards for lawful and ethical business operations. The second line of defense aids the first line in identifying, measuring, monitoring, and controlling risks.
+3. Third line of defense: Audit
+    - The third line of defense provides to management and the Board of Directors its assessment of the effectiveness of governance, risk management, and internal controls.
+    
+Libra's unique features and Novi's immutable AML database impact the traditional lines of defense model. By making compliance an inherent part of the transaction process, Novi can prove it has fulfilled its compliance obligations.
+1. First line of defense
+    - Product risks are mitigated through the transaction processing process, which has build-in controls based on Move
+2. Second line of defense
+    - Requirements are implemented as protocols
+3. Third line of defense
+    - The entire program is transparent and queryable
+
+
+    
+### Program componenets
+- **Policies** outline how Novi ensures it conducts business lawfully.
+- **Processes** implement policies.
+- **Procedures** describe how to run processes.
+- **Controls** evaluate risks, manage execution, and test effectiveness.
+
+
+### Users
+
+
+
+### Monitoring
+Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Novi's transaction-monitoring strategy calls for:
+- A comprehensive understanding of products offered by Novi, which enables identification of their money-laundering vulnerabilities;
+- Thorough and clear documentation and governance, which are pillars of a sustainable program; and
+- Technologies that can help Novi prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse of Libra.
+
+Novi's monitoring program targets the interconnectedness of Libra. 
+
+Novi's monitoring program uses a framework based on four concepts:
+1. **Typologies**, which are classifications of money-laundering behavior
+2. **Behaviors**, which are a discrete type or set of user-initiated activities
+3. **Red flags**, which are risky behaviors
+3. **Rules**, which use calculations to generate alerts.
+
+
+1. Identify systems.  
+2. Identify connections between systems.  
+3. Define system participant roles.  
+4. Define normal behavior for each role.  
+5. What are the features of that behavior?  
+
+6. Observe user behavior on system.
+7. Measure distance between role behavior and user behavior.
+8. Cluster measurements.
+
+9. Create graph = V(user)-send money->V(user)
+
+    Properties of users = 
+    ```
+        {
+          "unique_id": string,
+          "Roles": tuple(string),
+          "Feature_scores": tuple(float),
+          "money_sent": float,
+          "money_received": float,
+          "transaction_count": int
+        }
+     ```  
+
+    Properties of money_send = 
+    ```
+        {
+          "originator_id": string,
+          "beneficiary_id": string,
+          "transaction_time": timedate,
+          "transaction_amt": float
+        }
+     ```
+
+10. Cluster users by property
+
+
+
+##### Profiles
+
+1.	Customers
+    1. Name
+    2. Government ID
+    3.	Passport number
+    4.	Government identification number
+    5.	Primary address
+    6.	Mailing address
+    7.	Other address
+    8.	Phone numbers
+    9.	Email address
+    10.	Alert history (alerts raised, frequency, disposition)
+    11.	Politically exposed person status
+    12.	Birth date
+    13.	Access
+        1. IP address
+        2. Device ID
+        3. Location
+    14.	Beneficial owner
+2.	Accounts
+    1.	Age
+        1. Since establishment
+        2. Since last transaction
+        3. Since last login
+    2.	Types
+        1.	Features
+        2.	Business rules
+            1.	Limits
+            2.	Controls
+    3.	Usage (e.g., velocity, dormancy)
+    4.	Geography
+    5.	Authorized users
+    6.	Alert history (alerts raised, frequency, disposition)
+    7.	Connections
+3.	Transactions
+    1.	Types
+        1.	Debit
+        2.	Credit
+    2. Parties
+        1. Internal
+        2. External
+    3.	Frequency
+    4.	Direction
+    5.	Associated accounts and customers
+    6.	Alert history (alerts raised, frequency, disposition)
+
+
+##### Transactions have shape
+
+Transactions features:
+1. Shape (inputs, outputs)
+2. Value distribution
+3. Input type
+4. Input age
+
+
+##### Plan
+1. Identify threats
+2. Document risks
+3. Review authoritative sources
+4. Reivew investigations narratives, if any
+5. Define typology based on authoritative sources and observed behavior
+6. Define features that enable risks
+7. Define expected behavior
+8. Define risky behavior
+9. Choose behavior curve
+10. Map behaviors to typologies
+11. Draft requirements and logic
+12. Build
+13. Train
+14. Test
+15. Generate output
+16. Investigate
+17. Analyze results
+18. Estimate frequency
+19. Draft closing memo
+20. Review prototype with stakeholders
+21. Submit
+22. Draft procedures
+23. Conduct training
+
+
+##### Features
+```
+{
+    "behavior" : "The greater the number of addresses paid by one source, the greater the risk",
+    "risks" : ["money laundering", "terrorist financing", "fraud"],
+    "expected_behavior" : "One source sends funds to only one account",
+    "risky_behavior" : "One source sends funds to many accounts",
+    "measurement" : "count",
+    "feature_name" : "shared source",
+    "feature_description" : "scores when the number of shared sources is more than one",
+    "feature_calculation" : "min(1,ln(number of addresses paid by source))",
+}
+{
+    "behavior" : "The greater the number of users that share demographic information, the greater the risk",
+    "risks" : ["money laundering", "terrorist financing", "fraud", "error"],
+    "expected_behavior" : "User demographic information is unique",
+    "risky_behavior" : "User demographic information is not unique",
+    "measurement" : "count",
+    "feature_name" : "shared demographics",
+    "feature_description" : "scores when more than one user shares demographic information",
+    "feature_calculation" : "min(1,ln(number of users with deographic information value))",
+}
+{
+    "behavior" : "The more frequent the change in deographic information, the greater the risk",
+    "risks" : ["money laundering", "fraud"],
+    "expected_behavior" : "The user never updates demographic information",
+    "risky_behavior" : "The user updates demographic information more than twice in a 3-month period",
+    "measurement" : "frequency",
+    "feature_name" : "frequent updates",
+    "feature_description" : "scores when customer makes at least one update, maximum score at 3",
+    "feature_calculation" : "min(1,ln(count of updates)/ln(3))",
+}
+{
+    "behavior" : "The more frequent a user attempts transactions at the limit, the greater the risk",
+    "risks" : ["money laundering", "terrorist financing", "fraud"],
+    "expected_behavior" : "User never attempts transactions at the limit",
+    "risky_behavior" : "All of user's transactions are at limit",
+    "measurement" : "frequency",
+    "feature_name" : "limit testing",
+    "feature_description" : "scores increases with more attempts, maximum score at 10",
+    "feature_calculation" : "min(1,ln(attempts at limit)/ln(10))",
+}
+{
+    "behavior" : "The greater the difference between the observed transaction and average user transaction, the greater the risk",
+    "risks" : ["money laundering", "terrorist financing", "fraud", "collusion"],
+    "expected_behavior" : "User's transaction is within 3σ",
+    "risky_behavior" : "User's transaction is the largest",
+    "measurement" : "percentage",
+    "feature_name" : "transaction magnitude",
+    "feature_description" : "scores when transaction is 3 standard deviations from the mean",
+    "feature_calculation" : "if(amount>(mean(past amounts)) + stdev(past amounts)*3),1,0)",
+}
+{
+    "behavior" : "",
+    "risks" : ["money laundering", "terrorist financing", "fraud"],
+    "expected_behavior" : "",
+    "risky_behavior" : "",
+    "measurement" : "count",
+    "feature_name" : "",
+    "feature_description" : "scores when ",
+    "feature_calculation" : "",
+}
+{
+    "behavior" : "",
+    "risks" : ["money laundering", "terrorist financing", "fraud"],
+    "expected_behavior" : "",
+    "risky_behavior" : "",
+    "measurement" : "count",
+    "feature_name" : "",
+    "feature_description" : "scores when ",
+    "feature_calculation" : "",
+}
+{
+    "behavior" : "",
+    "risks" : ["money laundering", "terrorist financing", "fraud"],
+    "expected_behavior" : "",
+    "risky_behavior" : "",
+    "measurement" : "count",
+    "feature_name" : "",
+    "feature_description" : "scores when ",
+    "feature_calculation" : "",
+}
+{
+    "behavior" : "",
+    "risks" : ["money laundering", "terrorist financing", "fraud"],
+    "expected_behavior" : "",
+    "risky_behavior" : "",
+    "measurement" : "count",
+    "feature_name" : "",
+    "feature_description" : "scores when ",
+    "feature_calculation" : "",
+}
+```
+
+
 
 
 
