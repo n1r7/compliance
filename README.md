@@ -7,13 +7,13 @@
     - How do we know we can trust this transaction?
 3. Effectiveness is the culture.
     - Know with certainty we fulfill our requirements. 
-    - Partner with law enforcement to fight crime that harms our users.
+    - Fight crime that harms our users.
 
 
 
 
 # INTRODUCTION
-Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfill its legal and regulatory obligations to monitor for the potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
+Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfill its legal and regulatory obligations to prevent, detect, and report potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
 
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Protocols.png?raw=true)
 
