@@ -1,7 +1,7 @@
 # STRATEGY
 1. Maximize communication.
-    - Am we doing what we need to do?
-    - Am we communicating as such?
+    - Are we doing what we need to do?
+    - Are we communicating as such?
 2. Be confident.
     - How do we know we can trust this user?
     - How do we know we can trust this transaction?
