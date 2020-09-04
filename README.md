@@ -147,25 +147,21 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 
 # WHAT WE DO
 
-The Libra Payment System was designed to be secure and safe. Because the Libra database is based on Merkle trees, each transaction on the network is referenceable, and each component of each transaction is verified. These unique properties strengthen and streamline risk and compliance processes. 
+The Libra Payment System was designed to be secure and safe.
 
-The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Novi seeks to avoid these shortcomings. 
+The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information-sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Novi seeks to avoid these shortcomings. 
 
 To effectively fight financial crime, Libra members must:
-- Collectively validate users of the network
-- Share intelligence and detection models
-- Work together to continuously improve
+- Collectively validate users of the network;
+- Share intelligence and detection models; and
+- Work together to continuously improve.
 
-Novi's AML program is based on trust. Much like Libra, it uses distributed ledgers and Merkle trees to ensure appropriate information is collected and verified, and available for review. 
-- We verify all users, so they can transact quickly and with confidence
-- We review every transaction, so Libra can remain secure and safe
-- We communicate with our regulators and collaborate with peers on building effective controls
+Novi's AML program is based on trust. Much like Libra, it uses ledgers and Merkle trees to ensure appropriate information is collected, verified, and available for review. 
+- Novi verifies all users, so they can transact quickly and with confidence.
+- Novi reviews every transaction, so Libra can remain secure and safe.
+- Novi communicates with its regulators and collaborates with peers on building effective controls.
 
-Novi's AML compliance framework links and validates user information, and allows activity across the entire network to be monitored.
-- Shared data creates connections between users.
-- Participants can verify source of funds for each transaction.
-- Transactions include wallet hosts, , and monitors transactions between users
-- Participants will be unable to see private data (all data is encrypted)
+Shared data creates connections between users. Novi's AML compliance framework links and validates user information, and allows activity across the entire network to be monitored. 
 
 ### Risk Management
 Many organizations use the _lines of defense_ model for risk management (Financial Stability Institute "Four Lines of Defense Model"). With this model, risk-management responsibilities are divided into general categories.
@@ -176,13 +172,13 @@ Many organizations use the _lines of defense_ model for risk management (Financi
 3. Third line of defense: Audit
     - The third line of defense provides to management and the Board of Directors its assessment of the effectiveness of governance, risk management, and internal controls.
     
-Libra's unique features and Novi's immutable AML database impact the traditional lines of defense model. By making compliance an inherent part of the transaction process, Novi can prove it has fulfilled its compliance obligations.
+Libra's unique features and Novi's immutable AML database necessarily redefine the lines of defense model for virtual assets. By making compliance an inherent part of the transaction process, Novi can efficiently fulfil its compliance obligations, and prove it has done so.
 1. First line of defense
-    - Product risks are mitigated through the transaction processing process, which has built-in controls based on Move
+    - Product risks are mitigated through the transaction processing process, which has built-in controls based on Move.
 2. Second line of defense
-    - Requirements are implemented as protocols
+    - Requirements are implemented as protocols.
 3. Third line of defense
-    - The entire program is transparent and queryable
+    - The entire program is transparent and queryable.
 
 
     
@@ -194,6 +190,57 @@ Libra's unique features and Novi's immutable AML database impact the traditional
 
 
 ### Users
+Store every available piece of information on a blockchain so that user input, system-generated connections, and the status, method, and proof of verification are included within the user record. 
+
+- How do users transact?
+  - Internal records
+     - Accounts
+     - Transactions
+  - What do users own?
+     - Internal records
+     - Public records
+  - What do users value?
+     - Internal records
+        - Transaction trends
+- What influences users?
+  - Social media connections
+  - Family
+- What do users share?
+  - Social media
+- What is a user’s income?
+  - Internal records
+  - Public records
+- What can the system reasonably predict?
+
+
+
+#### Types of information
+
+Company-initiated:
+- All user information required by law.
+- All user information required by Novi.
+- All user information requested by Novi.
+   - Non-incentivized
+      - Electronic information gathering
+      - Optional online form fields
+      - In-person information gathering
+      - Mail campaigns
+   - Incentivized
+      - Users that do not have or use certain risky features do not require monitoring for typologies that involve that feature.
+         - The fewer the number of users that require monitoring, the more efficient the AML program can be, reducing costs.
+            - SARs require teams of educated humans to do things – they can never be eliminated. 
+         - Incentivizing users to reduce their threats to our system, we can reduce cost per SAR, thereby freeing up resources once allocated to AML compliance.  
+      - Feature limits  
+         - For each risky feature the user does not opt-in to, provide user the equivalent in points of the average cost per SAR involving a product with that feature.
+         - Products have tiered features customers opt-into. 
+            - Riskier product features require additional information from the user. 
+      - Payment source identification
+         - Identification of the source of funds reduces the largest risk of payments.
+         - White list payments from confirmed sources utilizing the 314(b) process or Plaid, requiring regular checks to confirm the connection.
+      - Social network connectivity
+         - Improve watch list and sanctions screening effectiveness through social network confirmation using available APIs.
+         - Users are incentivized to do so through assurances of frictionless transactions.
+         - Provide users with terms and conditions that guarantee their privacy.
 
 
 
@@ -206,23 +253,22 @@ Transaction monitoring entails the automated or manual review of transactions to
 Novi's monitoring program targets the interconnectedness of Libra. 
 
 Novi's monitoring program uses a framework based on four concepts:
-1. **Typologies**, which are classifications of money-laundering behavior
-2. **Behaviors**, which are a discrete type or set of user-initiated activities
-3. **Red flags**, which are risky behaviors
+1. **Typologies**, which are classifications of money-laundering behavior;
+2. **Behaviors**, which are a discrete type or set of user-initiated activities;
+3. **Red flags**, which are risky behaviors; and
 3. **Rules**, which use calculations to generate alerts.
 
+The monitoring process entails:
+1. Identifing systems.  
+2. Identifing connections between systems.  
+3. Defining system participant roles.  
+4. Defining normal behavior for each role.  
+5. Defining features of each behavior.  
+6. Observing user behavior on system.
+7. Measuring distance between role behavior and user behavior.
+8. Clustering measurements.
 
-1. Identify systems.  
-2. Identify connections between systems.  
-3. Define system participant roles.  
-4. Define normal behavior for each role.  
-5. What are the features of that behavior?  
-
-6. Observe user behavior on system.
-7. Measure distance between role behavior and user behavior.
-8. Cluster measurements.
-
-9. Create graph = V(user)-send money->V(user)
+9. Creating graph = V(user)-send money->V(user)
 
     Properties of users = 
     ```
@@ -307,7 +353,7 @@ Transactions features:
 4. Input age
 
 
-##### Plan
+##### Implementation Plan
 1. Identify threats
 2. Document risks
 3. Review authoritative sources
