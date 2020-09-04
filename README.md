@@ -1,19 +1,19 @@
 # STRATEGY
 1. Maximize communication.
-    - Am I doing what I need to do?
-    - Am I communicating as such?
-2. Be clear.
-    - How do I know I can trust this transaction?
-    - How do I know I can trust this user?
+    - Am we doing what we need to do?
+    - Am we communicating as such?
+2. Be confident.
+    - How do we know we can trust this user?
+    - How do we know we can trust this transaction?
 3. Effectiveness is the culture.
-    - We know with certainty we fulfil our requirements. 
-    - Help law enforcement fight crime that harms our users.
+    - Know with certainty we fulfill our requirements. 
+    - Partner with law enforcement to fight crime that harms our users.
 
 
 
 
 # INTRODUCTION
-Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfil its legal and regulatory obligations to monitor for the potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
+Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfill its legal and regulatory obligations to monitor for the potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
 
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Protocols.png?raw=true)
 
@@ -287,7 +287,7 @@ Many organizations use the _lines of defense_ model for risk management (Financi
 3. Third line of defense: Audit
     - The third line of defense provides to management and the Board of Directors its assessment of the effectiveness of governance, risk management, and internal controls.
     
-Libra's unique features and Novi's immutable AML database necessarily redefine the lines of defense model for virtual assets. By making compliance an inherent part of the transaction process, Novi can efficiently fulfil its compliance obligations, and prove it has done so.
+Libra's unique features and Novi's immutable AML database necessarily redefine the lines of defense model for virtual assets. By making compliance an inherent part of the transaction process, Novi can efficiently fulfill its compliance obligations, and prove it has done so.
 1. First line of defense
     - Product risks are mitigated through the transaction processing process, which has built-in controls based on Move.
 2. Second line of defense
