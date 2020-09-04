@@ -5,8 +5,6 @@
 2. Be clear.
     - How do I know I can trust this transaction?
     - How do I know I can trust this user?
-    - How often have I assisted with a law enforcement initiative?
-    - How many former users have been convicted?
 3. Effectiveness is the culture.
     - We know with certainty we fulfil our requirements. 
     - Help law enforcement fight crime that harms our users.
