@@ -549,24 +549,24 @@ Transactions features:
     "feature_calculation" : "if(amount>(mean(past amounts)) + stdev(past amounts)*3),1,0)",
 }
 {
-    "behavior" : "",
+    "behavior" : "The more frequent an account is accessed from an unknown source, the greater the risk",
     "risks" : ["money laundering", "terrorist financing", "fraud"],
-    "expected_behavior" : "",
-    "risky_behavior" : "",
-    "measurement" : "count",
-    "feature_name" : "",
-    "feature_description" : "scores when ",
-    "feature_calculation" : "",
+    "expected_behavior" : ""The account is accessed from known sources,
+    "risky_behavior" : "The account is accessed from unknown sources",
+    "measurement" : "frequency",
+    "feature_name" : "unknown sources",
+    "feature_description" : "score increases the more often an account is accessed from unknown sources, maximum score at or above 0.25",
+    "feature_calculation" : "min(1,tanh((unknown sources/total sources)/tanh(0.25))",
 }
 {
-    "behavior" : "",
+    "behavior" : "The greater the number of out-of-pattern transactions compared to category, the greater the risk",
     "risks" : ["money laundering", "terrorist financing", "fraud"],
-    "expected_behavior" : "",
-    "risky_behavior" : "",
+    "expected_behavior" : "Behavior is within cluster",
+    "risky_behavior" : "Behavior is outside cluster",
     "measurement" : "count",
-    "feature_name" : "",
-    "feature_description" : "scores when ",
-    "feature_calculation" : "",
+    "feature_name" : "out-of-pattern transactions",
+    "feature_description" : "score increases the more transactions outside cluster, maximum score at 5",
+    "feature_calculation" : "min(1,ln(sum((observation - mean)/stdev) + 1)/ln(5+1)",
 }
 {
     "behavior" : "",
