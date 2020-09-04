@@ -16,6 +16,7 @@
 Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfill its legal and regulatory obligations to prevent, detect, and report potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
 
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Protocols.png?raw=true)
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Compliance Protocols.png?raw=true)
 
 ### Libra
 The Libra Blockchain is a decentralized, programmable database designed to support a low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for billions of people around the world. All of the data in the Libra Blockchain is persisted in a single-versioned distributed database. The versioned database allows validators to:
@@ -165,7 +166,7 @@ Shared data creates connections between users. Novi's AML compliance framework l
 
 ### Compliance as an information hub
 
-Compliance is binary – Novi is either compliant or it is not. The effectiveness of all compliance systems is dependent on having access to all pertinent information. Thus, compliance is a solvable information problem.
+Compliance is binary – Novi is either compliant or it is not. The effectiveness of all compliance systems is dependent on having access to all pertinent information. Compliance is a solvable information problem.
 
 Centralized data makes compliance surveillance more effective. Anti-money laundering compliance comprises three concepts:
 1.	Who do I do business with?
@@ -182,10 +183,10 @@ An effective anti-money laundering compliance system must create connections bet
     - Is this user sanctioned?
     - Enhance user profiles with external data
   - Transactions
+    - Is this transaction permissible?
     - Is this transaction fraudulent?
     - Should this transaction be denied due to sanctions or other reasons?
     - Is this transaction indicative of financial crime?
-    - Is this transaction permissible?
   - Records
     - Distributed ledger provides full audit trail of records
     - Consensus driven – is the record different than expected?
@@ -198,7 +199,7 @@ An effective anti-money laundering compliance system must create connections bet
 
 
 #### Compliance systems improve all areas of business
-Consider the system described in the previous section. Using this framework for enterprise systems development, businesses can more effectively manage compliance risk and free capital for strategy and investment.
+Using this framework for enterprise systems development, businesses can more effectively manage compliance risk and free capital for strategy and investment.
 - Business
   - Trends in customer behavior can identify new sources of revenue
 - Intelligence
@@ -227,7 +228,7 @@ Encryption improves security and privacy. Distributed ledgers improve integrity.
 #### Information exchange
 Companies rely on many different systems and changing those systems would be costly and time-consuming. AML is not intended to replace those systems. AML is a compliance-focused system that establishes standards for encryption of data, sharing of data for compliance use, and decryption of member data by appropriate parties and auditable results, while addressing the three key anti-money laundering concepts.
 
-Implementation occurs in phases:
+Traditional implementation occurs in phases:
 1. Optimization of anti-money laundering transaction monitoring alerts to reduce useless (i.e., false positive) alert volume. Doing so will improve the effectiveness of the transaction monitoring system, reducing the burden on investigative and other anti-money laundering compliance staff.
   1. Inputs = alert details, including typology, rule, thresholds, and disposition
   2. What threshold does the system predict will result in an alert generating?
