@@ -13,7 +13,7 @@
 
 
 # INTRODUCTION
-Novi Financial (Novi) maintains a global anti-money laundering (AML) program designed to fulfill its legal and regulatory obligations to prevent, detect, and report potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
+Company maintains a global anti-money laundering (AML) program designed to fulfill its legal and regulatory obligations to prevent, detect, and report potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
 
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Protocols.png?raw=true)
 
@@ -52,7 +52,7 @@ Adhere to the existing tenets of anti-money laundering compliance, but connect t
 
 ### Compliance as an information hub
 
-Compliance is binary – Novi is either compliant or it is not. The effectiveness of all compliance systems is dependent on having access to all pertinent information. Compliance is a solvable information problem.
+Compliance is binary – Company is either compliant or it is not. The effectiveness of all compliance systems is dependent on having access to all pertinent information. Compliance is a solvable information problem.
 
 Centralized data makes compliance surveillance more effective. Anti-money laundering compliance comprises three concepts:
 1.	Who do I do business with?
@@ -260,19 +260,19 @@ Anti-money laundering and counter-terrorist financing (AML/CTF) laws and regulat
 
 The Libra Payment System was designed to be secure and safe.
 
-The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information-sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Novi seeks to avoid these shortcomings. 
+The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information-sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Company seeks to avoid these shortcomings. 
 
 To effectively fight financial crime, Libra members must:
 - Collectively validate users of the network;
 - Share intelligence and detection models; and
 - Work together to continuously improve.
 
-Novi's AML program is based on trust. Much like Libra, it uses ledgers and Merkle trees to ensure appropriate information is collected, verified, and available for review. 
-- Novi verifies all users, so they can transact quickly and with confidence.
-- Novi reviews every transaction, so Libra can remain secure and safe.
-- Novi communicates with its regulators and collaborates with peers on building effective controls.
+Company's AML program is based on trust. Much like Libra, it uses ledgers and Merkle trees to ensure appropriate information is collected, verified, and available for review. 
+- Company verifies all users, so they can transact quickly and with confidence.
+- Company reviews every transaction, so Libra can remain secure and safe.
+- Company communicates with its regulators and collaborates with peers on building effective controls.
 
-Shared data creates connections between users. Novi's AML compliance framework links and validates user information, and allows activity across the entire network to be monitored.
+Shared data creates connections between users. Company's AML compliance framework links and validates user information, and allows activity across the entire network to be monitored.
 
 
 
@@ -289,7 +289,7 @@ Many organizations use the _lines of defense_ model for risk management (Financi
 3. Third line of defense: Audit
     - The third line of defense provides to management and the Board of Directors its assessment of the effectiveness of governance, risk management, and internal controls.
     
-Libra's unique features and Novi's immutable AML database necessarily redefine the lines of defense model for virtual assets. By making compliance an inherent part of the transaction process, Novi can efficiently fulfill its compliance obligations, and prove it has done so.
+Libra's unique features and Company's immutable AML database necessarily redefine the lines of defense model for virtual assets. By making compliance an inherent part of the transaction process, Company can efficiently fulfill its compliance obligations, and prove it has done so.
 1. First line of defense
     - Product risks are mitigated through the transaction processing process, which has built-in controls based on Move.
 2. Second line of defense
@@ -300,7 +300,7 @@ Libra's unique features and Novi's immutable AML database necessarily redefine t
 
     
 ### Program components
-- **Policies** outline how Novi ensures it conducts business lawfully.
+- **Policies** outline how Company ensures it conducts business lawfully.
 - **Processes** implement policies.
 - **Procedures** describe how to run processes.
 - **Controls** evaluate risks, manage execution, and test effectiveness.
@@ -335,8 +335,8 @@ Store every available piece of information on a blockchain so that user input, s
 
 Company-initiated:
 - All user information required by law.
-- All user information required by Novi.
-- All user information requested by Novi.
+- All user information required by Company.
+- All user information requested by Company.
    - Non-incentivized
       - Electronic information gathering
       - Optional online form fields
@@ -362,14 +362,14 @@ Company-initiated:
 
 
 ### Monitoring
-Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolfsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Novi's transaction-monitoring strategy calls for:
-- A comprehensive understanding of products offered by Novi, which enables identification of their money-laundering vulnerabilities;
+Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolfsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Company's transaction-monitoring strategy calls for:
+- A comprehensive understanding of products offered by Company, which enables identification of their money-laundering vulnerabilities;
 - Thorough and clear documentation and governance, which are pillars of a sustainable program; and
-- Technologies that can help Novi prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse of Libra.
+- Technologies that can help Company prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse of Libra.
 
-Novi's monitoring program targets the interconnectedness of Libra. 
+Company's monitoring program targets the interconnectedness of Libra. 
 
-Novi's monitoring program uses a framework based on four concepts:
+Company's monitoring program uses a framework based on four concepts:
 1. **Typologies**, which are classifications of money-laundering behavior;
 2. **Behaviors**, which are a discrete type or set of user-initiated activities;
 3. **Red flags**, which are risky behaviors; and
