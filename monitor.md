@@ -1,16 +1,28 @@
-# Monitor
+### Monitoring
+Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolfsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Company's transaction-monitoring strategy calls for:
+- A comprehensive understanding of products offered by Company, which enables identification of their money-laundering vulnerabilities;
+- Thorough and clear documentation and governance, which are pillars of a sustainable program; and
+- Technologies that can help Company prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse of Libra.
 
-1. Identify systems.  
-2. Identify connections between systems.  
-3. Define system participant roles.  
-4. Define normal behavior for each role.  
-5. What are the features of that behavior?  
+Company's monitoring program targets the interconnectedness of Libra. 
 
-6. Observe user behavior on system.
-7. Measure distance between role behavior and user behavior.
-8. Cluster measurements.
+Company's monitoring program uses a framework based on four concepts:
+1. **Typologies**, which are classifications of money-laundering behavior;
+2. **Behaviors**, which are a discrete type or set of user-initiated activities;
+3. **Red flags**, which are risky behaviors; and
+3. **Rules**, which use calculations to generate alerts.
 
-9. Create graph = V(user)-send money->V(user)
+The monitoring process entails:
+1. Identifing systems.  
+2. Identifing connections between systems.  
+3. Defining system participant roles.  
+4. Defining normal behavior for each role.  
+5. Defining features of each behavior.  
+6. Observing user behavior on system.
+7. Measuring distance between role behavior and user behavior.
+8. Clustering measurements.
+
+9. Creating graph = V(user)-send money->V(user)
 
     Properties of users = 
     ```
@@ -38,7 +50,7 @@
 
 
 
-### Profiles
+##### Profiles
 
 1.	Customers
     1. Name
@@ -86,7 +98,7 @@
     6.	Alert history (alerts raised, frequency, disposition)
 
 
-### Transactions have shape
+##### Transactions have shape
 
 Transactions features:
 1. Shape (inputs, outputs)
@@ -95,11 +107,11 @@ Transactions features:
 4. Input age
 
 
-### Plan
+##### Implementation Plan
 1. Identify threats
 2. Document risks
 3. Review authoritative sources
-4. Reivew investigations narratives, if any
+4. Review investigations narratives, if any
 5. Define typology based on authoritative sources and observed behavior
 6. Define features that enable risks
 7. Define expected behavior
@@ -141,10 +153,10 @@ Transactions features:
     "measurement" : "count",
     "feature_name" : "shared demographics",
     "feature_description" : "scores when more than one user shares demographic information",
-    "feature_calculation" : "min(1,ln(number of users with deographic information value))",
+    "feature_calculation" : "min(1,ln(number of users with demographic information value))",
 }
 {
-    "behavior" : "The more frequent the change in deographic information, the greater the risk",
+    "behavior" : "The more frequent the change in demographic information, the greater the risk",
     "risks" : ["money laundering", "fraud"],
     "expected_behavior" : "The user never updates demographic information",
     "risky_behavior" : "The user updates demographic information more than twice in a 3-month period",
@@ -174,24 +186,24 @@ Transactions features:
     "feature_calculation" : "if(amount>(mean(past amounts)) + stdev(past amounts)*3),1,0)",
 }
 {
-    "behavior" : "",
+    "behavior" : "The more frequent an account is accessed from an unknown source, the greater the risk",
     "risks" : ["money laundering", "terrorist financing", "fraud"],
-    "expected_behavior" : "",
-    "risky_behavior" : "",
-    "measurement" : "count",
-    "feature_name" : "",
-    "feature_description" : "scores when ",
-    "feature_calculation" : "",
+    "expected_behavior" : ""The account is accessed from known sources,
+    "risky_behavior" : "The account is accessed from unknown sources",
+    "measurement" : "frequency",
+    "feature_name" : "unknown sources",
+    "feature_description" : "score increases the more often an account is accessed from unknown sources, maximum score at or above 0.25",
+    "feature_calculation" : "min(1,tanh((unknown sources/total sources)/tanh(0.25))",
 }
 {
-    "behavior" : "",
+    "behavior" : "The greater the number of out-of-pattern transactions compared to category, the greater the risk",
     "risks" : ["money laundering", "terrorist financing", "fraud"],
-    "expected_behavior" : "",
-    "risky_behavior" : "",
+    "expected_behavior" : "Behavior is within cluster",
+    "risky_behavior" : "Behavior is outside cluster",
     "measurement" : "count",
-    "feature_name" : "",
-    "feature_description" : "scores when ",
-    "feature_calculation" : "",
+    "feature_name" : "out-of-pattern transactions",
+    "feature_description" : "score increases the more transactions outside cluster, maximum score at 5",
+    "feature_calculation" : "min(1,ln(sum((observation - mean)/stdev) + 1)/ln(5+1)",
 }
 {
     "behavior" : "",
