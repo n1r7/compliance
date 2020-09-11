@@ -1,6 +1,6 @@
 # KYC
 
-Store every available piece of information on a blockchain so that user input, system-generated connections, and the status, method, and proof of verification are included within the user record. 
+Store relevant information on a blockchain so that user input, system-generated connections, and the status, method, and proof of verification are included within the user record. 
 
 - What do customers share?
   - Social media
