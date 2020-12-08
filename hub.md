@@ -1,5 +1,5 @@
 ### AML Compliance Program Framework
-![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Protocols.png?raw=true)
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Compliance%20Protocols.png?raw=true)
 
 Adhere to the existing tenets of anti-money laundering compliance, but connect the concepts in such a way that allows for greater program efficiency.
 1.	Risk assessment
