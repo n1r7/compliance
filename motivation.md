@@ -49,8 +49,8 @@ The _enable, distance, and disguise_ model (Stephen Platt, Criminal Capital: How
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Enable%20Distance%20Disguise.png?raw=true)
 
 Money laundering is a diverse and often complex process. From a financial perspective, it occurs via one or more discrete steps:
-1. **Placement**: Introducing illicit funds into Libra, ideally without attracting the attention of financial institutions or law enforcement.
-2. **Layering**: Moving funds within Libra and the broader financial system, often in a complex series of transactions, to create confusion about the source of funds and complicate the transaction trail.
+1. **Placement**: Introducing illicit funds into the financial system, ideally without attracting the attention of financial institutions or law enforcement.
+2. **Layering**: Moving funds within the broader financial system, often in a complex series of transactions, to create confusion about the source of funds and complicate the transaction trail.
 3. **Integration**: The ultimate goal of money laundering--using illicit funds to purchase licit goods and services.
 
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Placement%20Layering%20Integration.png?raw=true)
