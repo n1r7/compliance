@@ -7,4 +7,4 @@
     - How do we know we can trust this transaction?
 3. Effectiveness is the culture.
     - Know with certainty we fulfill our requirements. 
-    - Protect the Libra Payment System from abuse.
+    - Protect the payment system from abuse.
