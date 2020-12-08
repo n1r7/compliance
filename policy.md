@@ -1,19 +1,14 @@
-
-
-
-
-
 # INTRODUCTION
-Company maintains a global anti-money laundering (AML) program designed to fulfill its legal and regulatory obligations to prevent, detect, and report potentially suspicious use of digital wallets on the Libra Payment System (Libra). The program comprises interconnected protocols that are automatic, auditable, and referenceable.
+We maintain a global anti-money laundering (AML) program designed to fulfill our legal and regulatory obligations to prevent, detect, and report potentially suspicious use of our products. The program comprises interconnected protocols that are automatic, auditable, and referenceable.
 
 ![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Protocols.png?raw=true)
 
-### Libra
-The Libra Blockchain is a decentralized, programmable database designed to support a low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for billions of people around the world. All of the data in the Libra Blockchain is persisted in a single-versioned distributed database. The versioned database allows validators to:
+### Payments Blockchain
+The Payments Blockchain is a decentralized, programmable database designed to support a low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for billions of people around the world. All of the data in the Payments Blockchain is persisted in a single-versioned distributed database. The versioned database allows validators to:
 - Execute a transaction against the ledger state at the latest version.
 - Respond to client queries about ledger history at both current and previous versions.
 
-The database stores a ledger of programmable resources, such as Libra coins. A resource adheres to custom rules specified by its declaring module, which is also stored in the database. A resource is owned by an account that is authenticated using public key cryptography. An account could represent direct end users of the system as well as entities, such as custodial wallets, that act on behalf of their users. An account’s owner can sign transactions that operate on the resources held within the account.
+The database stores a ledger of programmable resources, such as virtual coins. A resource adheres to custom rules specified by its declaring module, which is also stored in the database. A resource is owned by an account that is authenticated using public key cryptography. An account could represent direct end users of the system as well as entities, such as custodial wallets, that act on behalf of their users. An account’s owner can sign transactions that operate on the resources held within the account.
 
 
 ### AML Compliance Program Framework
