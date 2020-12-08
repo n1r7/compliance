@@ -125,23 +125,24 @@ Traditional implementation occurs in phases:
 6.	Prevention – what can I avoid?
 7.	Situational awareness – what do I need to do right now?
 
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Compliance%20Blocks.png?raw=true)
 
 
 
 # WHAT WE DO
 
-The Libra Payment System was designed to be secure and safe.
+The Blockchain Payment System was designed to be secure and safe.
 
 The safest payment system is one based on trust. If members share information and work together to fight financial crime, the system itself becomes safer and more efficient. Information-sharing programs exist to assist in the fight against financial crime. However, those programs are inefficient due to a lack of central governance, standards, and accountability. Company seeks to avoid these shortcomings. 
 
-To effectively fight financial crime, Libra members must:
+To effectively fight financial crime, members must:
 - Collectively validate users of the network;
 - Share intelligence and detection models; and
 - Work together to continuously improve.
 
-Company's AML program is based on trust. Much like Libra, it uses ledgers and Merkle trees to ensure appropriate information is collected, verified, and available for review. 
+Our AML program is based on trust. Much like the Blockchain Payment System, it uses ledgers and Merkle trees to ensure appropriate information is collected, verified, and available for review. 
 - Company verifies all users, so they can transact quickly and with confidence.
-- Company reviews every transaction, so Libra can remain secure and safe.
+- Company reviews every transaction, so we can remain secure and safe.
 - Company communicates with its regulators and collaborates with peers on building effective controls.
 
 Shared data creates connections between users. Company's AML compliance framework links and validates user information, and allows activity across the entire network to be monitored.
@@ -161,7 +162,7 @@ Many organizations use the _lines of defense_ model for risk management (Financi
 3. Third line of defense: Audit
     - The third line of defense provides to management and the Board of Directors its assessment of the effectiveness of governance, risk management, and internal controls.
     
-Libra's unique features and Company's immutable AML database necessarily redefine the lines of defense model for virtual assets. By making compliance an inherent part of the transaction process, Company can efficiently fulfill its compliance obligations, and prove it has done so.
+The Blockchain Payment System's unique features and our immutable AML database necessarily redefine the lines of defense model for virtual assets. By making compliance an inherent part of the transaction process, Company can efficiently fulfill its compliance obligations, and prove it has done so.
 1. First line of defense
     - Product risks are mitigated through the transaction processing process, which has built-in controls based on Move.
 2. Second line of defense
@@ -237,9 +238,9 @@ Company-initiated:
 Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolfsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Company's transaction-monitoring strategy calls for:
 - A comprehensive understanding of products offered by Company, which enables identification of their money-laundering vulnerabilities;
 - Thorough and clear documentation and governance, which are pillars of a sustainable program; and
-- Technologies that can help Company prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse of Libra.
+- Technologies that can help Company prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse.
 
-Company's monitoring program targets the interconnectedness of Libra. 
+Company's monitoring program targets the interconnectedness of the financial system. 
 
 Company's monitoring program uses a framework based on four concepts:
 1. **Typologies**, which are classifications of money-laundering behavior;
