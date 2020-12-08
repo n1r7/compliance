@@ -1,12 +1,12 @@
 ### Monitoring
-Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolfsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Company's transaction-monitoring strategy calls for:
-- A comprehensive understanding of products offered by Company, which enables identification of their money-laundering vulnerabilities;
+Transaction monitoring entails the automated or manual review of transactions to identify activity of concern; when appropriate, report it to authorities; and evaluate whether customer relationships should be discontinued (Wolfsberg Group Statement on AML Screening, Monitoring, and Searching, 2009). Our transaction-monitoring strategy calls for:
+- A comprehensive understanding of products offered, which enables identification of their money-laundering vulnerabilities;
 - Thorough and clear documentation and governance, which are pillars of a sustainable program; and
-- Technologies that can help Company prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse.
+- Technologies that can help prevent, detect, and report financial crime, mitigate compliance risk, and protect against abuse.
 
-Company's monitoring program targets the interconnectedness of the payment network. 
+The monitoring program targets the interconnectedness of the payment network. 
 
-Company's monitoring program uses a framework based on four concepts:
+The monitoring program uses a framework based on four concepts:
 1. **Typologies**, which are classifications of money-laundering behavior;
 2. **Behaviors**, which are a discrete type or set of user-initiated activities;
 3. **Red flags**, which are risky behaviors; and
