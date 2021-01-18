@@ -1,3 +1,8 @@
+![alt text](https://github.com/nirvanapatel/compliance/blob/master/images/Application%20Layers.png?raw=true)
+
+
+
+
 Legal compliance:
 1. Parse ECFR to docs
 2. Split docs to sentences
